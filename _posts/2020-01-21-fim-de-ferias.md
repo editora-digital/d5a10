@@ -4,7 +4,7 @@ title:  "Fim de férias à vista!"
 description: "Como podemos preparar a rotina de nossos filhos para o retorno às aulas?"
 author: Naira
 categories: [ volta as aulas ]
-image: assets/images/home.jpg
+image: assets/images/fim-de-ferias.jpg
 tags: [Volta as aulas]
 ---
 
