@@ -1,12 +1,12 @@
 # Site
 name: 'd5a10'
-description: 'Mundana is a free Jekyll theme for awesome people like you, Medium like.'
+description: 'd5a10 é seu novo canal de informação sobre uma fase interessante e desafiadora para os pais, que compreende a idade de 5 a 10 anos! Aqui, você encontra assuntos relacionados a comportamento, saúde, educação e tudo mais que envolve  o desenvolvimento das crianças nesta faixa etária.'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 baseurl: ''
 #disqus: 'demowebsite'
 email: 'd5a10.editora@gmail.com'
-mailchimp-list: 'https://gmail.us4.list-manage.com/subscribe/post?u=2e2de7e803c19c65957be170e&amp;id=436c8b7690'
+#mailchimp-list: 'https://gmail.us4.list-manage.com/subscribe/post?u=2e2de7e803c19c65957be170e&amp;id=436c8b7690'
 
 include: ["_pages"]
 permalink: /:title/

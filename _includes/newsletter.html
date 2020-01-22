@@ -1,31 +1,50 @@
-<!-- Begin Mailchimp Signup Form -->
-<link href="//cdn-images.mailchimp.com/embedcode/slim-10_7.css" rel="stylesheet" type="text/css">
-<style type="text/css">
-    #mc_embed_signup {
-        background: #fff;
-        clear: left;
-        font: 14px Helvetica, Arial, sans-serif;
-    }
+<script>
 
-    /* Add your own Mailchimp form style overrides in your site stylesheet or in this style block.
-	   We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
-</style>
-<div id="mc_embed_signup" style="height:200px; background-color: aquamarine;">
-    <form action="https://gmail.us4.list-manage.com/subscribe/post?u=2e2de7e803c19c65957be170e&amp;id=436c8b7690"
-        method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank"
-        novalidate>
-        <div id="mc_embed_signup_scroll">
-            <h2>Cadastre o seu e-mail e receba a nossa <i>newsletter</i></h2>
-            <!--<label for="mce-EMAIL">Newsletter</label>-->
-            <input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL"
-                placeholder="Digite aqui o seu e-mail" required>
-            <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
-            <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text"
-                    name="b_2e2de7e803c19c65957be170e_436c8b7690" tabindex="-1" value=""></div>
-            <div class="clear"><input type="submit" value="Cadastrar" name="subscribe" id="mc-embedded-subscribe"
-                    class="button"></div>
-        </div>
-    </form>
-</div>
+var oldSubscribe, oldSubscribeDiv;
+var email;
+function enviar() {
+	email = subscribeForm.elements["EMAIL"].value || " ";
+	if (email.indexOf("@") == -1) {
+		document.getElementById("subscribeFormErro").style = "display:block; color:red;";
+		return false; //Não encontrou
+	}
 
-<!--End mc_embed_signup-->
+	oldSubscribe = document.getElementById("subscribe").style;
+	oldSubscribeDiv = document.getElementById("subscribeDiv").style;
+	document.getElementById("subscribe").style = 'background-image:url("/assets/images/enviar.gif"); background-position: center; background-repeat: no-repeat;';
+	document.getElementById("subscribeDiv").style = "visibility:hidden";
+
+
+	var xhttp = new XMLHttpRequest();
+	xhttp.onreadystatechange = function() {
+		console.log(this.readyState, " ", this.status);
+    if (this.readyState == 4) {
+			if (this.status == 200 && xhttp.responseText === "OK!!" ) {
+				var msg = '<b>O e-mail ' + email + ' foi cadastrado.';
+				msg = msg + ' 👍 </b>';
+				msg = msg + 'Enviamos uma mensagem para você! 😎 Então, corre para conferir a sua caixa de entrada. 😀 Se o email não chegar nos próximos minutos 🤞, não deixe de verificar se ele não ficou parado na sua caixa de spam. 👍';
+
+				document.getElementById("subscribeDiv").innerHTML = msg;
+			}
+			else {
+				document.getElementById("subscribeFormMsg").innerHTML = "<b>Não consegui cadastrar o seu e-mail. 😢 Por favor, tente novamente!</b>";
+			}
+			document.getElementById("subscribe").style = oldSubscribe;
+			document.getElementById("subscribeDiv").style = oldSubscribeDiv;
+
+		}
+		console.log(this);
+		console.log(xhttp.responseText);
+  };
+	
+  xhttp.open("GET", "https://us-central1-site-d5a10.cloudfunctions.net/cadastrarEmailNewsletter?e=" + email);
+	xhttp.send();
+
+	
+  return false; //Não enviar o formulário
+}
+
+function desligaErro() {
+	document.getElementById("subscribeFormErro").style = "display:none";
+}
+</script>
