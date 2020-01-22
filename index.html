@@ -41,7 +41,7 @@ description: "d5a10 é seu novo canal de informação sobre uma fase interessant
                         </span>
                     </small>
                     <small class="text-muted">
-                        {{ latest_post.date | date: '%b %d, %Y' }}
+                        {% include translated_date.html date=latest_post.date format=site.date_format lang=site.lang%}
                     </small>
                 </div>
             </div>
@@ -72,7 +72,7 @@ description: "d5a10 é seu novo canal de informação sobre uma fase interessant
                         </span>                   
                     </small>
                     <small class="text-muted">
-                        {{ second_post.date | date: '%b %d, %Y' }}
+                        {% include translated_date.html date=latest_post.date format=site.date_format lang=site.lang%}
                     </small>
                 </div>
         </div>

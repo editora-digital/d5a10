@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Bem-vindo ao d5a10! 🙂"
-description: "Novo por aqui? Seja bem-vindo"
+description: "Novo por aqui? Seja bem-vindo!"
 categories: [ Geral ]
 image: assets/images/bem-vindo.jpg
 ---

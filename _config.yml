@@ -8,6 +8,15 @@ baseurl: ''
 email: 'd5a10.editora@gmail.com'
 #mailchimp-list: 'https://gmail.us4.list-manage.com/subscribe/post?u=2e2de7e803c19c65957be170e&amp;id=436c8b7690'
 
+### Basic localisation (l10n)
+# If you customize the lang parameter, minima will try to use the strings in _data/locales/[lang].yml
+# Read https://github.com/jekyll/minima/README.md for more information.
+lang: pt
+
+# Even the day and month names will be translated. You can customize your date by
+# uncommenting the following line and customizing the date format:
+date_format: "%b %-d, %Y"
+
 include: ["_pages"]
 permalink: /:title/
 
