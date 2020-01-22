@@ -34,6 +34,7 @@ layout: default
 					<img class="rounded"
 						src="{% if page.image contains "://" %}{{ page.image }}{% else %}{{ site.baseurl }}/{{ page.image }}{% endif %}"
 						alt="{{ page.title }}">
+						<b>{{page.description}}</b>
 				</div>
 				{% endif %}
 			</div>
