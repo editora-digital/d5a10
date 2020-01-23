@@ -32,4 +32,4 @@ Então, confira algumas dicas importantes para se programar:
 
 Acredite, com esses pequenos cuidados, a volta às aulas pode ser um momento de alegria para todos! 
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfYYHf_CRKBGCOaP1G95caj0zadsJSbPvFaUFeHbXImHU8Kkg/viewform?embedded=true" width="640" height="547" frameborder="0" marginheight="0" marginwidth="0">Carregando…</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfYYHf_CRKBGCOaP1G95caj0zadsJSbPvFaUFeHbXImHU8Kkg/viewform?embedded=true" width="100%" height="547" frameborder="0" marginheight="0" marginwidth="0">Carregando…</iframe>
