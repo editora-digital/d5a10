@@ -12,6 +12,7 @@ Janeiro, calor e férias escolares. Que beleza! Neste período, alguns pais até
 
 Sabendo que o que é bom dura pouco, já é hora de começar a preparar as crianças para o retorno das aulas. Parece cedo, mas não é, porque elas precisam de um tempo para essa adaptação.
 
+<a href="https://aprender.digital/"><img class="thumb" src="https://d5a10.editora.digital/assets/images/o-nome-da-gente.gif" align="rigth"></a>
 Entre as várias razões para organizar a rotina dos pequenos com antecedência algumas se destacam como evitar o stress (nosso e deles) e os imprevistos de última hora; preparar o relógio biológico das crianças para acordarem no horário, principalmente daquelas que estudam pela manhã; ter em mãos o que será necessário no primeiro dia de aula; saber qual o itinerário e o melhor horário para sair de casa e evitar o trânsito pesado. Imagine o quanto facilitará a vida da família toda com essa organização prévia! Imagine também o contrário.  
 
 Confira algumas dicas importantes para se programar:
