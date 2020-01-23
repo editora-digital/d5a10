@@ -1,6 +1,7 @@
 /*!
  * Mundana Jekyll Theme (https://www.wowthemes.net/mundana-jekyll-theme/)
  */
+@import url(//fonts.googleapis.com/css?family=Crafty+Girls&display=swap);
 
 body {
 	overflow-x:hidden;
@@ -203,9 +204,11 @@ a.text-dark:hover {
 	color:#fff !important;
 }
 .navbar-brand {
-	margin-right:2rem;
-	font-size:1.55rem;
-    font-family:"Georgia","Times New Roman",serif;
+	margin-right:1.9rem;
+	font-size:2rem; /*1.55rem;*/
+	color: gray;
+		/*font-family:"Georgia","Times New Roman",serif;*/
+		font-family: 'Crafty Girls', cursive;
 }
 .dropdown-item {
 	font-weight:400;
@@ -228,7 +231,7 @@ a.text-dark:hover {
 	}
 }
 .navbar-light .navbar-brand {
-	color:rgba(0,0,0,0.9);
+	color:rgba(83, 79, 79, 0.801); /*rgba(0,0,0,0.9)*/
 }
 .navbar-light .navbar-brand:hover,.navbar-light .navbar-brand:focus {
 	color:rgba(0,0,0,0.9);
