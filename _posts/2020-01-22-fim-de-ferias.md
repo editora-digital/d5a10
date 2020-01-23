@@ -7,12 +7,18 @@ categories: [ volta as aulas ]
 image: assets/images/fim-de-ferias.jpg
 tags: [Volta as aulas]
 ---
-
+<style>
+.thumb {float: right; width: 45%;}
+@media only screen and (max-width: 520px) {
+  .txt {font-size: 22px;}
+  .thumb {float: right; width: 100%}
+}
+</style>
 Janeiro, calor e férias escolares. Que beleza! Neste período, alguns pais até conseguem relaxar as regras com os filhos e o ritmo das crianças é outro, bem diferente da correria do período escolar. Nas férias, é comum que as crianças durmam e acordem mais tarde, façam as refeições fora de hora, comam mais guloseimas,passem mais tempo em frente à TV ou com os dispositivos eletrônicos.  Não é mesmo?!
 
 Sabendo que o que é bom dura pouco, já é hora de começar a preparar as crianças para o retorno das aulas. Parece cedo, mas não é, porque elas precisam de um tempo para essa adaptação.
 
-<a href="https://aprender.digital/"><img class="thumb" src="https://d5a10.editora.digital/assets/images/o-nome-da-gente.gif" align="rigth"></a>
+<a href="https://aprender.digital/"><img class="thumb" src="/assets/images/o-nome-da-gente.gif" align="rigth"></a>
 Entre as várias razões para organizar a rotina dos pequenos com antecedência algumas se destacam como evitar o stress (nosso e deles) e os imprevistos de última hora; preparar o relógio biológico das crianças para acordarem no horário, principalmente daquelas que estudam pela manhã; ter em mãos o que será necessário no primeiro dia de aula; saber qual o itinerário e o melhor horário para sair de casa e evitar o trânsito pesado. Imagine o quanto facilitará a vida da família toda com essa organização prévia! Imagine também o contrário.  
 
 Confira algumas dicas importantes para se programar:
