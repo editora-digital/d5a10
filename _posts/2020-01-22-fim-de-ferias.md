@@ -5,7 +5,7 @@ description: "Como podemos preparar a rotina de nossos filhos para o retorno às
 author: Naira
 categories: [ volta as aulas ]
 image: assets/images/fim-de-ferias.jpg
-tags: [Volta as aulas]
+tags: [Volta às aulas]
 ---
 <style>
 .thumb {float: right; width: 45%;}
@@ -19,7 +19,7 @@ Janeiro, calor e férias escolares. Que beleza! Neste período, alguns pais até
 Sabendo que o que é bom dura pouco, já é hora de começar a preparar as crianças para o retorno das aulas. Parece cedo, mas não é, porque elas precisam de um tempo para essa adaptação.
 
 <a href="https://aprender.digital/"><img class="thumb" src="/assets/images/o-nome-da-gente.gif" align="rigth"></a>
-Entre as várias razões para organizar a rotina dos pequenos com antecedência algumas se destacam, como evitar o stress (nosso e deles) e os imprevistos de última hora; preparar o relógio biológico das crianças para acordarem no horário, principalmente daquelas que estudam pela manhã; ter em mãos o que será necessário no primeiro dia de aula; saber qual o itinerário e o melhor horário para sair de casa e evitar o trânsito pesado. Imagine o quanto facilitará a vida da família toda com essa organização prévia! Imagine também o contrário.  
+Entre as várias razões para organizar a rotina dos pequenos com antecedência algumas se destacam, como evitar o estresse (nosso e deles) e os imprevistos de última hora; preparar o relógio biológico das crianças para acordarem no horário, principalmente daquelas que estudam pela manhã; ter em mãos o que será necessário no primeiro dia de aula; saber qual o itinerário e o melhor horário para sair de casa e evitar o trânsito pesado. Imagine o quanto facilitará a vida da família toda com essa organização prévia! Imagine também o contrário.  
 
 Então, confira algumas dicas importantes para se programar:
   * **COMECE PELO HORÁRIO:** não deixe para mandar as crianças cedo para a cama somente na véspera da volta às aulas. Pelo menos com uma semana de antecedência, comece a estipular os horários de dormir e de acordar das crianças. Com uma rotina organizada e cumpridas, pelo menos, 8h de sono, o corpo entra nos eixos e as crianças não se sentirão cansadas no dia de voltar à escola. Vale também, neste período, começar a diminuir o acesso delas aos computadores, jogos e TV. Estipular horários é um caminho.
@@ -32,4 +32,4 @@ Então, confira algumas dicas importantes para se programar:
 
 Acredite, com esses pequenos cuidados, a volta às aulas pode ser um momento de alegria para todos! 
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfYYHf_CRKBGCOaP1G95caj0zadsJSbPvFaUFeHbXImHU8Kkg/viewform?embedded=true" width="100%" height="547" frameborder="0" marginheight="0" marginwidth="0">Carregando…</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSd8Pl2KwVj0f3hrZaZyGgm0oOE5qWk_fqQIJ_FGwcJu4gfOng/viewform?embedded=true" width="100%" height="547" frameborder="0" marginheight="0" marginwidth="0">Carregando…</iframe>
