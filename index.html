@@ -72,12 +72,12 @@ description: "d5a10 é seu novo canal de informação sobre uma fase interessant
                         </span>                   
                     </small>
                     <small class="text-muted">
-                        {% include translated_date.html date=latest_post.date format=site.date_format lang=site.lang%}
+                        {% include translated_date.html date=second_post.date format=site.date_format lang=site.lang%}
                     </small>
                 </div>
         </div>
         
-        <!-- third latest post 
+        <!-- third latest post -->
         {%- assign third_post = site.posts[2] -%}        
         <div class="mb-3 d-flex align-items-center">                
                 {% if third_post.image %}
@@ -99,10 +99,10 @@ description: "d5a10 é seu novo canal de informação sobre uma fase interessant
                         </span>                   
                     </small>
                     <small class="text-muted">
-                        {{ third_post.date | date: '%b %d, %Y' }}
-                    </small>
+                        {% include translated_date.html date=third_post.date format=site.date_format lang=site.lang%}
+                    </small> 
                 </div>
-        </div> -->
+        </div> 
         
         <!-- fourth latest post 
         {%- assign fourth_post = site.posts[3] -%}        
