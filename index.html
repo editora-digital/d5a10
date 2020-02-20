@@ -92,7 +92,7 @@ description: "d5a10 é seu novo canal de informação sobre uma fase interessant
                     <a class="text-dark" href="{{site.baseurl}}{{third_post.url}}">{{ third_post.title }}</a>
                     </h2>
                     <small class="d-block text-muted">
-                        In <span class="catlist">
+                        <span class="catlist">
                         {% for category in third_post.categories %}
                         <a class="text-capitalize text-muted smoothscroll" href="{{site.baseurl}}/categories.html#{{ category | downcase }}">{{ category }}</a><span class="sep">, </span>
                         {% endfor %}
@@ -104,7 +104,7 @@ description: "d5a10 é seu novo canal de informação sobre uma fase interessant
                 </div>
         </div> 
         
-        <!-- fourth latest post 
+        <!-- fourth latest post -->
         {%- assign fourth_post = site.posts[3] -%}        
         <div class="mb-3 d-flex align-items-center">                
                 {% if fourth_post.image %}
@@ -119,17 +119,17 @@ description: "d5a10 é seu novo canal de informação sobre uma fase interessant
                     <a class="text-dark" href="{{site.baseurl}}{{fourth_post.url}}">{{ fourth_post.title }}</a>
                     </h2>
                     <small class="d-block text-muted">
-                        In <span class="catlist">
+                        <span class="catlist">
                         {% for category in fourth_post.categories %}
                         <a class="text-capitalize text-muted smoothscroll" href="{{site.baseurl}}/categories.html#{{ category | downcase }}">{{ category }}</a><span class="sep">, </span>
                         {% endfor %}
                         </span>                   
                     </small>
                     <small class="text-muted">
-                        {{ fourth_post.date | date: '%b %d, %Y' }}
+                        {% include translated_date.html date=third_post.date format=site.date_format lang=site.lang%}
                     </small>
                 </div>
-        </div>-->
+        </div>
 
     </div>
     
