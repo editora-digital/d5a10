@@ -130,6 +130,34 @@ description: "d5a10 é seu novo canal de informação sobre uma fase interessant
                 </div>
         </div>
 
+        <!-- quint post -->
+        {%- assign fourth_post = site.posts[4] -%}        
+        <div class="mb-3 d-flex align-items-center">                
+                {% if fourth_post.image %}
+                <div class="col-md-4">
+                <a href="{{site.baseurl}}{{fourth_post.url}}">
+                <img class="w-100" src="{% if fourth_post.image contains "://" %}{{ fourth_post.image }}{% else %}{{site.baseurl}}/{{ fourth_post.image }}{% endif %}" alt="{{ fourth_post.title }}">
+                </a>
+                </div>
+                {% endif %}                
+                <div>
+                    <h2 class="mb-2 h6 font-weight-bold">
+                    <a class="text-dark" href="{{site.baseurl}}{{fourth_post.url}}">{{ fourth_post.title }}</a>
+                    </h2>
+                    <small class="d-block text-muted">
+                        <span class="catlist">
+                        {% for category in fourth_post.categories %}
+                        <a class="text-capitalize text-muted smoothscroll" href="{{site.baseurl}}/categories.html#{{ category | downcase }}">{{ category }}</a><span class="sep">, </span>
+                        {% endfor %}
+                        </span>                   
+                    </small>
+                    <small class="text-muted">
+                        {% include translated_date.html date=third_post.date format=site.date_format lang=site.lang%}
+                    </small>
+                </div>
+        </div>
+
+
     </div>
     
 </div>
