@@ -21,7 +21,7 @@ box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);}
 </style>
 Nesse momento de dúvidas e uma certa angústia, devido ao COVID19-Coronavírus, a informação é nossa melhor aliada. E como podemos ensinar às crianças a se prevenirem e a lidarem com mais esse bichinho que apareceu, de uma forma simples, objetiva e efetiva?
 
-Pensando nisso, a psicóloga e escritora Colombiana, *Manuela Molina* escreveu o **COVIBOOK** que transmite de forma leve, lúdica, divertida as informações sobre a doença.
+Pensando nisso, a psicóloga e escritora colombiana, *Manuela Molina*, escreveu o **COVIBOOK** que transmite de forma leve, lúdica, divertida as informações sobre a doença.
 
 <a href="https://aprender.digital/"><img class="thumb" src="/assets/images/o-nome-da-gente.gif" align="rigth"></a>
 A história é contada a partir do ponto de vista do próprio vírus que ensina os pequenos sobre:
