@@ -29,7 +29,7 @@ font-style: italic;
 text-align: center;
 }
 </style>
-A orientação é clara: todos devemos evitar ao máximo o contato para reduzirmos a propagação do COVID-19. Atendendo a essa diretriz, empresas, comércio e escolas pararam suas atividades, algumas por tempo indeterminado.E o  que fazer com as crianças durante esse tempo?
+A orientação é clara: todos devemos evitar ao máximo o contato para reduzirmos a propagação do COVID-19. Atendendo a essa diretriz, empresas, comércio e escolas pararam suas atividades, algumas por tempo indeterminado. E o que fazer com as crianças durante esse tempo?
 
 <a href="https://aprender.digital/"><img class="thumb" src="/assets/images/o-nome-da-gente.gif" align="rigth"></a>
 Temos algumas dicas para que a “quarentena” não cause prejuízos escolares e não deixe os pais ainda mais angustiados neste momento. E sabe qual é a palavra-chave para que isso possa dar certo? Rotina. Não há como esperar que as próprias crianças se organizem, temos que colaborar com uma rotina que faça sentido para elas, com obrigações mas também com um pouco de lazer e brincadeiras. 
@@ -37,11 +37,11 @@ Temos algumas dicas para que a “quarentena” não cause prejuízos escolares 
 ### Estudos
 Muitas escolas disponibilizam os conteúdos do bimestre nas plataformas digitais, facilitando o acesso aos conteúdos e lições de casa. Aqui em casa, por exemplo, baixei os conteúdos e as lições da semana, que minha filha está cumprindo dia-a-dia. Além disso, ela deve fazer algumas atividades extras de matemática, leitura e redação. 
 
-Todas as mães estão neste mesmo movimento! Marlize Belo conta que  a filha mais velha terá apoio da escola para as atividades escolares remoto. “Lorena está com a rotina orientada pela escola com todo o apoio dos professores! Existe um horário pré-definido para a orientação diária, no início da manhã, e no decorrer do dia eles devem estar atentos a demandas que podem surgir”, conta.  
+Todas as mães estão neste mesmo movimento! Marlize Belo conta que  a filha mais velha terá apoio da escola para as atividades escolares remoto. “*Lorena está com a rotina orientada pela escola com todo o apoio dos professores! Existe um horário pré-definido para a orientação diária, no início da manhã, e no decorrer do dia eles devem estar atentos a demandas que podem surgir*”, conta.  
 
-Adaptando sua rotina para dar apoio à filha adolescente, Eugênia, mãe de Lorraine,  preparou algumas coisas para as duas fazerem juntas durante este período. “Ela vai ter aulas virtuais e além das tarefas escolares vai fazer o Kumon. Comprei cinco livros e vamos fazer trabalhos de colagem, um quadro de colar e também vamos costurar”, diz.
+Adaptando sua rotina para dar apoio à filha adolescente, Eugênia, mãe de Lorraine,  preparou algumas coisas para as duas fazerem juntas durante este período. “*Ela vai ter aulas virtuais e além das tarefas escolares vai fazer o Kumon. Comprei cinco livros e vamos fazer trabalhos de colagem, um quadro de colar e também vamos costurar*”, diz.
 
-Para os menorzinhos vale investir tempo nas brincadeiras. Vivian Barletta, mãe da pequena Nina, de 4 anos, estabeleceu uma rotina para Nina e a priminha, Helena, que está com ela nestes dias. “Nós estipulamos horários para as atividades. Estamos confeccionando uma amarelinha de papelão que elas vão pintar e enfeitar, para depois brincarem; elas terão uma hora de jogos educativos no tablet, por dia; um momento para jogos como o da memória; terão a hora do faz de conta, a hora da historinha, enfim tudo programado”, diz Vivian.
+Para os menorzinhos vale investir tempo nas brincadeiras. Vivian Barletta, mãe da pequena Nina, de 4 anos, estabeleceu uma rotina para Nina e a priminha, Helena, que está com ela nestes dias. “*Nós estipulamos horários para as atividades. Estamos confeccionando uma amarelinha de papelão que elas vão pintar e enfeitar, para depois brincarem; elas terão uma hora de jogos educativos no tablet, por dia; um momento para jogos como o da memória; terão a hora do faz de conta, a hora da historinha, enfim tudo programado*”, diz Vivian.
 
 ### Rotina
 O ideal é manter o mesmo horário estabelecido em dias de aula para as crianças acordarem, tomarem café da manhã ou almoçarem e se prepararem para as atividades. 
@@ -59,11 +59,11 @@ Veja essa sugestão semanal de organização da rotina:
 
 Nos grupos de mães do *Whatsapp* já correm muitas atividades e brincadeiras para fazer durante esse período. Seguem algumas dicas que queremos dividir com nossos leitores!
 
-Começando com brincadeiras para os pequenos! Olha que bacana este "**Kit de Sobrevivência para uma Quarentena Brincante**" que a *Estéfi Machado* preparou para esse momento. Clica para ver!
+Começando com brincadeiras para os pequenos! Olha que bacana este **Kit de Sobrevivência para uma Quarentena Brincante** que a *Estéfi Machado* preparou para esse momento. Clica para ver!
 
 <a href="/assets/images/posts2020/2020-03-17-coronavirus-aulas-canceladas-brincadeiras.pdf" target="_blank"><img class="capa" src="/assets/images/posts2020/2020-03-17-coronavirus-aulas-canceladas-brincadeiras-capa.jpg" align="rigth"></a> 
 
-E esse é outro guia de brincadeiras, divulgado pelo **Blog Apenas Mãe**, originalmente para as férias das crianças, mas que vem bem a calhar agora nessas “férias” forçadas!
+E esse é outro guia de brincadeiras, divulgado pelo blog **Apenas Mãe**, originalmente para as férias das crianças, mas que vem bem a calhar agora nessas “férias” forçadas!
 
 <a href="/assets/images/posts2020/2020-03-17-coronavirus-aulas-canceladas-atividades.pdf" target="_blank"><img class="capa" src="/assets/images/posts2020/2020-03-17-coronavirus-aulas-canceladas-atividades-capa.jpg" align="rigth"></a> 
 
@@ -79,7 +79,7 @@ E já que não tem como sair de casa, nesses tempos de coronavirus,  que tal um 
  * [Hermitage - São Petersburgo](https://www.hermitagemuseum.org/?lng=en){:target="_blank"}
  * [Galeria Nacional de Arte - Washington](https://www.nga.gov/index.html){:target="_blank"}
 
-Já para quem gosta de ciências, a dica é o canal de [**O Manual do Mundo**](https://www.youtube.com/user/iberethenorio){:target="_blank"} que traz muitas experiências divertidas e curiosas! E nesta quarentena, a promessa do canal é postar um novo vídeo a cada dia! Vale conferir.
+Já para quem gosta de ciências, a dica é o canal [**O Manual do Mundo**](https://www.youtube.com/user/iberethenorio){:target="_blank"} que traz muitas experiências divertidas e curiosas! E nesta quarentena, a promessa do canal é postar um novo vídeo a cada dia! Vale conferir.
 
 Sem esquecer da boa e velha sessão de cinema em casa, com muita pipoca!
 Vamos aproveitar esse tempo com as crianças! E se você tem outras dicas para compartilhar? Escreva em nosso canal no [Facebook](https://www.facebook.com/d5a10/){:target="_blank"}.
