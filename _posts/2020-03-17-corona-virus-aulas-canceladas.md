@@ -82,6 +82,6 @@ E já que não tem como sair de casa, nesses tempos de coronavirus,  que tal um 
 Já para quem gosta de ciências, a dica é o canal [**O Manual do Mundo**](https://www.youtube.com/user/iberethenorio){:target="_blank"} que traz muitas experiências divertidas e curiosas! E nesta quarentena, a promessa do canal é postar um novo vídeo a cada dia! Vale conferir.
 
 Sem esquecer da boa e velha sessão de cinema em casa, com muita pipoca!
-Vamos aproveitar esse tempo com as crianças! E se você tem outras dicas para compartilhar? Escreva em nosso canal no [Facebook](https://www.facebook.com/d5a10/){:target="_blank"}.
+Vamos aproveitar esse tempo com as crianças! E se você tem outras dicas para compartilhar? Escreva em nosso canal no [Facebook](https://www.facebook.com/d5a10/posts/141216704093713?__xts__[0]=68.ARCPdBPkYWoOi7Ifh1RnEmVyVY60X18RsrD-eY9iZjQaa2gilMe8PRwaauy4sHUc4uJ8tE4FVhPO_sW9uJGTO7UYuk1AetMvXzRElD8_lwRKiXcMHEg9KvqyReRiJVQsYbekJHiJXK1dV0fXIH4ynHnmj28qfgjz3hLz_evy7JGPUOui-FVfKlOcjezRsuhXKDlUSprQqjZgCOPeVEvAFAlyXlnMGgglnwEDLRmYFUpRB863dJswTEPJlLZ8U5otpLkq5aisEP1bcjyqxcUm88MUQGYcZ4E-W2e_yNRVCB4l8m_anTgp-hHbcmVQJlX7bzo_lrX6WhKP-nafosx-W1c&__tn__=-R){:target="_blank"}.
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSd8Pl2KwVj0f3hrZaZyGgm0oOE5qWk_fqQIJ_FGwcJu4gfOng/viewform?embedded=true" width="100%" height="547" frameborder="0" marginheight="0" marginwidth="0">Carregando…</iframe>
