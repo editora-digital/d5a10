@@ -35,7 +35,7 @@ A orientação é clara: todos devemos evitar ao máximo o contato para reduzirm
 Temos algumas dicas para que a “quarentena” não cause prejuízos escolares e não deixe os pais ainda mais angustiados neste momento. E sabe qual é a palavra-chave para que isso possa dar certo? Rotina. Não há como esperar que as próprias crianças se organizem, temos que colaborar com uma rotina que faça sentido para elas, com obrigações mas também com um pouco de lazer e brincadeiras. 
 
 ### Estudos
-Muitas escolas disponibilizam os conteúdos do bimestre nas plataformas digitais, facilitando o acesso aos conteúdos e lições de casa. Aqui em casa, por exemplo, baixei os conteúdos e as lições da semana, que minha filha está cumprindo dia-a-dia. Além disso, ela deve fazer algumas atividades extras de matemática, leitura e redação. 
+Muitas escolas disponibilizam os conteúdos do bimestre nas plataformas digitais, facilitando o acesso aos conteúdos e lições de casa. Aqui em casa, por exemplo, baixei os conteúdos e as lições da semana, que minha filha está cumprindo dia a dia. Além disso, ela deve fazer algumas atividades extras de matemática, leitura e redação. 
 
 Todas as mães estão neste mesmo movimento! Marlize Belo conta que  a filha mais velha terá apoio da escola para as atividades escolares remoto. “*Lorena está com a rotina orientada pela escola com todo o apoio dos professores! Existe um horário pré-definido para a orientação diária, no início da manhã, e no decorrer do dia eles devem estar atentos a demandas que podem surgir*”, conta.  
 
@@ -48,9 +48,7 @@ O ideal é manter o mesmo horário estabelecido em dias de aula para as criança
 
 É bom também definir os horários do que elas precisam fazer e iniciar pela lição de casa da escola, para que fiquem por dentro dos conteúdos programados.  Depois, estipule um horário  para leitura, para estudar sozinhos, para usar o computador, para os jogos e redes sociais.
 
-Isso tudo deve ser combinado com as crianças para entenderem o que devem fazer e, principalmente, o porquê. Para os maiores deve ficar claro que não se trata de férias e, sim, de uma restrição de mobilidade e de contato com outras pessoas por causa do coronavírus, mas que as atividades “normais” devem prosseguir.
-
-Veja essa sugestão semanal de organização da rotina:
+Isso tudo deve ser combinado com as crianças para entenderem o que devem fazer e, principalmente, o porquê. Para os maiores deve ficar claro que não se trata de férias e, sim, de uma restrição de mobilidade e de contato com outras pessoas por causa do coronavírus, mas que as atividades “normais” devem prosseguir. Veja essa sugestão semanal de organização da rotina:
 
 <figure>
 <img src="/assets/images/posts2020/2020-03-17-coronavirus-aulas-canceladas.jpeg" alt="Casa barco em Amsterdam">
