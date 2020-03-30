@@ -7,7 +7,7 @@ author: Naira
 categories: [ Saúde ]
 image: assets/images/posts2020/2020-03-13-image.jpg
 image-sticky: assets/images/posts2020/2020-03-13-image-sticky.jpg
-tags: [Saúde, sticky]
+tags: [Saúde]
 ---
 <style>
 .capa { display: block; margin-left: auto; margin-right: auto; width: 50%; 
