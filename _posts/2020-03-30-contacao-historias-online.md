@@ -2,6 +2,7 @@
 layout: post
 title:  "Contação de histórias <i>online</i>."
 description: "Prefeitura de Curitiba promove contação de histórias pela internet com as Bruxas do Bosque Alemão."
+text: "A partir desta segunda-feira, 30, a Prefeitura Municipal de Curitiba promove as famosas contações de histórias da Casa da Bruxa, pela internet!"
 author: Naira
 categories: [ Atividades ]
 image: assets/images/posts2020/2020-03-30-contacao-historias.png
@@ -30,7 +31,7 @@ font-style: italic;
 text-align: center;
 }
 </style>
-A partir desta segunda-feira, 30, a Prefeitura Municipal de Curitiba promove as famosas contações de histórias da Casa da Bruxa,  pela internet!  O espaço Casa da Bruxa é uma biblioteca pública que fica dentro do Bosque Alemão, um dos muitos parques da cidade. Nela, periodicamente, acontecem sessões de contação de histórias com simpáticas bruxinhas que fazem muito sucesso com a criançada. 
+A partir desta segunda-feira, 30, a Prefeitura Municipal de Curitiba promove as famosas contações de histórias da Casa da Bruxa pela internet!  O espaço Casa da Bruxa é uma biblioteca pública que fica dentro do Bosque Alemão, um dos muitos parques da cidade. Nela, periodicamente, acontecem sessões de contação de histórias com simpáticas bruxinhas que fazem muito sucesso com a criançada. 
 
 <a href="https://aprender.digital/"><img class="thumb" src="/assets/images/o-nome-da-gente.gif" align="rigth"></a>
 Como neste período, a Casa da Bruxa está fechada, elas estarão *online* com suas  muitas histórias para encantar crianças e estudantes que estão em casa, por causa do coronavírus. As sessões virtuais acontecem de segunda-feira a sexta-feira, sempre às 15h, no [Facebook da Prefeitura de Curitiba](https://pt-br.facebook.com/PrefsCuritiba/){:target="_blank"}! Mas o <spam style="font-family: 'Crafty Girls', cursive;color:gray"><b>d5a10</b></spam> vai colocar diariamente os links aqui para nossos leitores!
