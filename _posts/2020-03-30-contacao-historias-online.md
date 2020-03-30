@@ -3,7 +3,7 @@ layout: post
 title:  "Contação de histórias <i>online</i>."
 description: "Prefeitura de Curitiba promove contação de histórias pela internet com as Bruxas do Bosque Alemão."
 author: Naira
-categories: [ Comportamento ]
+categories: [ Atividades ]
 image: assets/images/posts2020/2020-03-30-contacao-historias.png
 image-sticky: assets/images/posts2020/2020-03-30-contacao-historias-sticky.jpg
 tags: [Internet, Atividades, sticky]
