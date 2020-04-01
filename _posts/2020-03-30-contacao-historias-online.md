@@ -44,5 +44,7 @@ Quando tudo isso passar, que tal fazer uma visitinha pessoalmente à Casa da Bru
 Histórias já publicadas:
  * [30/03/2020  &#8212; Bruxa Cidinha](https://www.facebook.com/PrefsCuritiba/videos/1296609657396007){:target="_blank"}. 
  * [31/03/2020  &#8212; Bruxa Dorotéia &#8212; Soldadinho de chumbo](https://www.facebook.com/PrefsCuritiba/videos/243197493518966/){:target="_blank"}.
+ * [01/04/2020  &#8212; Bruxa Bellatrix &#8212; A princesa que tudo sabia... Menos uma coisa](https://www.facebook.com/PrefsCuritiba/videos/627927394730063/){:target="_blank"}.
+
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSd8Pl2KwVj0f3hrZaZyGgm0oOE5qWk_fqQIJ_FGwcJu4gfOng/viewform?embedded=true" width="100%" height="547" frameborder="0" marginheight="0" marginwidth="0">Carregando…</iframe>
