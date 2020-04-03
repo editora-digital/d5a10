@@ -42,9 +42,16 @@ Gostou?! Então, assista ao vídeo para ter um gostinho do que é a Casa da Brux
 Quando tudo isso passar, que tal fazer uma visitinha pessoalmente à Casa da Bruxa, em Curitiba? Elas estarão lá esperando você! 
 
 Histórias já publicadas:
+ * [Arquivo &#8212; Bruxa Beth &#8212; A bruxa da trança torcida](https://www.youtube.com/watch?v=jV8Yeq5ojSw&t){:target="_blank"}
+ * [Arquivo &#8212; Bruxa Beth &#8212; Mulher faladeira](https://www.youtube.com/watch?v=_PFweH6J6hU&t){:target="_blank"}
+ * [Arquivo &#8212; Bruxa Beth &#8212; A Velhinha Inteligente](https://www.youtube.com/watch?v=T6ozexFBApg){:target="_blank"}
+ * [Arquivo &#8212; Bruxa Beth &#8212; João enterrou o medo](https://www.youtube.com/watch?v=KEXm9RxSLlM){:target="_blank"}
  * [30/03/2020  &#8212; Bruxa Cidinha](https://www.facebook.com/PrefsCuritiba/videos/1296609657396007){:target="_blank"}. 
  * [31/03/2020  &#8212; Bruxa Dorotéia &#8212; Soldadinho de chumbo](https://www.facebook.com/PrefsCuritiba/videos/243197493518966/){:target="_blank"}.
  * [01/04/2020  &#8212; Bruxa Bellatrix &#8212; A princesa que tudo sabia... Menos uma coisa](https://www.facebook.com/PrefsCuritiba/videos/627927394730063/){:target="_blank"}.
+ * [02/04/2020  &#8212; Bruxa Felícia &#8212; Os três lobinhos e o porco mau](https://www.facebook.com/PrefsCuritiba/videos/2793598070736067/){:target="_blank"}.
+ * [03/04/2020  &#8212; Bruxa Beth &#8212; O macaco Bartolo](https://www.facebook.com/PrefsCuritiba/videos/508821009797341/){:target="_blank"}.
+  
 
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSd8Pl2KwVj0f3hrZaZyGgm0oOE5qWk_fqQIJ_FGwcJu4gfOng/viewform?embedded=true" width="100%" height="547" frameborder="0" marginheight="0" marginwidth="0">Carregando…</iframe>
