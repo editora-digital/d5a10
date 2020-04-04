@@ -14,6 +14,14 @@ tags: [Internet, Atividades, sticky]
 .capa { display: block; margin-left: auto; margin-right: auto; width: 50%; 
 box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);}
 
+.bruxa { 
+  display: block; margin-left: auto; margin-right: auto; width: 60%; align:top;
+}
+.bruxa-desc {
+  vertical-align: text-top;
+}
+
+
 .thumb {float: right; width: 45%;}
 @media only screen and (max-width: 520px) {
   .txt {font-size: 22px;}
@@ -42,16 +50,65 @@ Gostou?! Então, assista ao vídeo para ter um gostinho do que é a Casa da Brux
 Quando tudo isso passar, que tal fazer uma visitinha pessoalmente à Casa da Bruxa, em Curitiba? Elas estarão lá esperando você! 
 
 Histórias já publicadas:
- * [Arquivo &#8212; Bruxa Beth &#8212; A bruxa da trança torcida](https://www.youtube.com/watch?v=jV8Yeq5ojSw&t){:target="_blank"}
- * [Arquivo &#8212; Bruxa Beth &#8212; Mulher faladeira](https://www.youtube.com/watch?v=_PFweH6J6hU&t){:target="_blank"}
- * [Arquivo &#8212; Bruxa Beth &#8212; A Velhinha Inteligente](https://www.youtube.com/watch?v=T6ozexFBApg){:target="_blank"}
- * [Arquivo &#8212; Bruxa Beth &#8212; João enterrou o medo](https://www.youtube.com/watch?v=KEXm9RxSLlM){:target="_blank"}
- * [30/03/2020  &#8212; Bruxa Cidinha](https://www.facebook.com/PrefsCuritiba/videos/1296609657396007){:target="_blank"}. 
- * [31/03/2020  &#8212; Bruxa Dorotéia &#8212; Soldadinho de chumbo](https://www.facebook.com/PrefsCuritiba/videos/243197493518966/){:target="_blank"}.
- * [01/04/2020  &#8212; Bruxa Bellatrix &#8212; A princesa que tudo sabia... Menos uma coisa](https://www.facebook.com/PrefsCuritiba/videos/627927394730063/){:target="_blank"}.
- * [02/04/2020  &#8212; Bruxa Felícia &#8212; Os três lobinhos e o porco mau](https://www.facebook.com/PrefsCuritiba/videos/2793598070736067/){:target="_blank"}.
- * [03/04/2020  &#8212; Bruxa Beth &#8212; O macaco Bartolo](https://www.facebook.com/PrefsCuritiba/videos/508821009797341/){:target="_blank"}.
-  
+<table>
+  <tr>
+    <td style="vertical-align: top">
+      <img class="bruxa" align="top" src="/assets/images/posts2020/bruxas/beth.png">
+    </td>
+    <td class="bruxa-desc">
+      <b>Bruxa Beth</b><br>
+      <a href="https://www.youtube.com/watch?v=jV8Yeq5ojSw&t" target="_blank">Arquivo &#8212; A bruxa da trança torcida</a><br>
+      <a href="https://www.youtube.com/watch?v=_PFweH6J6hU&t" target="_blank">Arquivo &#8212; Mulher faladeira</a><br>
+      <a href="https://www.youtube.com/watch?v=T6ozexFBApg" target="_blank">Arquivo &#8212; A Velhinha Inteligente</a><br>      
+      <a href="https://www.youtube.com/watch?v=KEXm9RxSLlM" target="_blank">Arquivo &#8212; João enterrou o medo</a><br>   
+    </td>
+  </tr>
+  <tr>
+    <td style="vertical-align: top">
+      <img class="bruxa" align="top" src="/assets/images/posts2020/bruxas/cidinha.png">
+    </td>
+    <td class="bruxa-desc">
+      <b>Bruxa Cidinha</b><br>
+      <a href="https://www.facebook.com/PrefsCuritiba/videos/1296609657396007" target="_blank">30/03/2020 &#8212; Invente o seu título<br></a>
+    </td>
+  </tr>
+  <tr>
+    <td style="vertical-align: top">
+      <img class="bruxa" align="top" src="/assets/images/posts2020/bruxas/doroteia.png">
+    </td>
+    <td class="bruxa-desc">
+      <b>Bruxa Dorotéia</b><br>
+      <a href="https://www.facebook.com/PrefsCuritiba/videos/243197493518966" target="_blank">31/03/2020  &#8212; Soldadinho de chumbo<br></a>
+    </td>
+  </tr>
+  <tr>
+    <td style="vertical-align: top">
+      <img class="bruxa" align="top" src="/assets/images/posts2020/bruxas/bellatrix.png">
+    </td>
+    <td class="bruxa-desc">
+      <b>Bruxa Bellatrix</b><br>
+      <a href="https://www.facebook.com/PrefsCuritiba/videos/627927394730063" target="_blank">01/04/2020  &#8212; A princesa que tudo sabia... Menos uma coisa<br></a>
+    </td>
+  </tr>
+  <tr>
+    <td style="vertical-align: top">
+      <img class="bruxa" align="top" src="/assets/images/posts2020/bruxas/felicia.png">
+    </td>
+    <td class="bruxa-desc">
+      <b>Bruxa Felícia</b><br>
+      <a href="https://www.facebook.com/PrefsCuritiba/videos/2793598070736067/" target="_blank">02/04/2020  &#8212; Os três lobinhos e o porco mau<br></a>
+    </td>
+  </tr>
+  <tr>
+    <td style="vertical-align: top">
+      <img class="bruxa" align="top" src="/assets/images/posts2020/bruxas/beth.png">
+    </td>
+    <td class="bruxa-desc">
+      <b>Bruxa Beth</b><br>
+      <a href="https://www.facebook.com/PrefsCuritiba/videos/508821009797341/" target="_blank">03/04/2020  &#8212; O macaco Bartolo<br></a>
+    </td>
+  </tr>
+</table>
 
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSd8Pl2KwVj0f3hrZaZyGgm0oOE5qWk_fqQIJ_FGwcJu4gfOng/viewform?embedded=true" width="100%" height="547" frameborder="0" marginheight="0" marginwidth="0">Carregando…</iframe>
