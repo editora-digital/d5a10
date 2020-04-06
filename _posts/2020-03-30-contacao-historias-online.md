@@ -108,6 +108,15 @@ Histórias já publicadas:
       <a href="https://www.facebook.com/PrefsCuritiba/videos/508821009797341/" target="_blank">03/04/2020  &#8212; O macaco Bartolo<br></a>
     </td>
   </tr>
+  <tr>
+    <td style="vertical-align: top">
+      <img class="bruxa" align="top" src="/assets/images/posts2020/bruxas/dedeca.png">
+    </td>
+    <td class="bruxa-desc">
+      <b>Bruxa Dedeca</b><br>
+      <a href="https://www.facebook.com/PrefsCuritiba/videos/220430529034041/" target="_blank">04/04/2020  &#8212; A Girafa sem Sono<br></a>
+    </td>
+  </tr>
 </table>
 
 
