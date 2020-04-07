@@ -17,6 +17,10 @@ pequenos:
     img: dando-no-lingua.webp
     autor: por Mirna Pinsky
     link: https://www.amazon.com.br/Dando-n%C3%B3-l%C3%ADngua-Mirna-Pinsky-ebook/dp/B01N2HN80I/ref=sr_1_10?fst=as%3Aoff&linkCode=sl2&linkId=42c97d9eb76291db101519adfd350b54&qid=1586274362&refinements=p_n_feature_browse-bin%3A6406078011%2Cp_36%3A5560479011&rnid=5560477011&s=digital-text&sr=1-10
+  - titulo: Juju quer ser astronauta
+    img: juju-astronauta.webp
+    autor: por JB Mimica
+    link: https://www.amazon.com.br/Juju-quer-ser-astronauta-ampliada-ebook/dp/B076KTSWVC/ref=sr_1_16?fst=as%3Aoff&linkCode=sl2&linkId=42c97d9eb76291db101519adfd350b54&qid=1586274362&refinements=p_n_feature_browse-bin%3A6406078011%2Cp_36%3A5560479011&rnid=5560477011&s=digital-text&sr=1-16
 maiores:
   - titulo: O Pequeno Livro de Hai-kais do Menino Maluquinho
     img: hai-kais.webp
@@ -30,6 +34,11 @@ maiores:
     img: dora-fantasmagorica.webp
     autor: por Abby Hanlon e Milena Vargas
     link: https://www.amazon.com.br/Dora-fantasmag%C3%B3rica-Abby-Hanlon-ebook/dp/B07PXPLM2H/ref=sr_1_7?fst=as%3Aoff&linkCode=sl2&linkId=42c97d9eb76291db101519adfd350b54&qid=1586274362&refinements=p_n_feature_browse-bin%3A6406078011%2Cp_36%3A5560479011&rnid=5560477011&s=digital-text&sr=1-7  
+  - titulo: Os Chocolix - Chegam à Chocolândia
+    img: chocolix.webp
+    autor: por Jacqueline Shor e Thelia Produções
+    link: https://www.amazon.com.br/Os-Chocolix-Chegam-%C3%A0-Chocol%C3%A2ndia-ebook/dp/B07WSG4FTL/ref=sr_1_48?fst=as%3Aoff&linkCode=sl2&linkId=42c97d9eb76291db101519adfd350b54&qid=1586292690&refinements=p_n_feature_browse-bin%3A6406078011%2Cp_36%3A5560479011&rnid=5560477011&s=digital-text&sr=1-48
+
 ---
 <link rel="stylesheet" href="/assets/css/plyr.css" />
 <style>
@@ -66,7 +75,7 @@ Neste período de quarentena a Amazon, em parceria com autores e editoras, refor
 
 A lista completa dos livros gratuitos para todas as idades você encontra [aqui](https://amazon.com.br/ebooksgratuitos){:target="_blank"}. Para facilitar, trazemos o link direto para alguns **títulos infantis** que encontramos no site (*última verificação em 7/Abril/2020*) e que podem ser baixados sem custo. Para quem ainda não tem conta na Amazon buscamos um tutorial no Yoube que mostra o processo. Veja o link ao final desta publicação.
 
-## Lista de e-books infantis ##
+## Lista de *eBooks* infantis ##
 Para os pequenos (não alfabetizados ou em alfabetização):
 <table>
   {% for livro in page.pequenos %}
