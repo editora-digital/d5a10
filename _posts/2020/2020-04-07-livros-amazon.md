@@ -75,6 +75,25 @@ Neste período de quarentena a Amazon, em parceria com autores e editoras, refor
 
 A lista completa dos livros gratuitos para todas as idades você encontra [aqui](https://amazon.com.br/ebooksgratuitos){:target="_blank"}. Para facilitar, trazemos o link direto para alguns **títulos infantis** que encontramos no site (*última verificação em 7/Abril/2020*) e que podem ser baixados sem custo. Para quem ainda não tem conta na Amazon buscamos um tutorial no Yoube que mostra o processo. Veja o link ao final desta publicação.
 
+<style>
+div.note
+{
+     background-color: #f0f7fb;
+     border-left: solid 4px #3498db;
+     /*font-family: 'Roboto', serif;*/
+     line-height: 1.3em;
+     overflow: hidden;
+     padding: 12px;
+}
+b.noteTitulo {
+  line-height: 1.7em;
+}
+</style>
+<div class="note">
+<b class="noteTitulo">Atenção!</b><br>
+Os livros podem deixar de ser gratuitos sem aviso prévio. Verifique antes de baixá-los. 
+</div>
+
 ## Lista de *eBooks* infantis ##
 Para os pequenos (não alfabetizados ou em alfabetização):
 <table>
