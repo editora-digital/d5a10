@@ -7,7 +7,7 @@ author: Naira
 categories: [ Atividades ]
 image: assets/images/posts2020/2020-03-30-contacao-historias.png
 image-sticky: assets/images/posts2020/2020-03-30-contacao-historias-sticky.jpg
-tags: [Internet, Atividades, sticky]
+tags: [Internet, Atividades]
 ---
 <link rel="stylesheet" href="/assets/css/plyr.css" />
 <style>
