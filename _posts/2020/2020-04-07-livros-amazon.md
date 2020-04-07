@@ -79,6 +79,8 @@ Lista de e-books infantis:
 
 Para quem não tem conta na Amazon, veja [neste link um tutorial](https://www.youtube.com/watch?v=E2I3e_xP9Nk){:target="_blank"} que encontramos no Youtube.
 
+Visite a nossa página no [Facebook](https://www.facebook.com/d5a10/posts/150553889826661?__tn__=-R) e conte para nós e para os nossos leitores qual livro infantil gratuito que você mais gostou. [&#91;Comente aqui.&#93;](https://www.facebook.com/d5a10/posts/150553889826661?__tn__=-R){:target="_blank"} 
+
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSd8Pl2KwVj0f3hrZaZyGgm0oOE5qWk_fqQIJ_FGwcJu4gfOng/viewform?embedded=true" width="100%" height="547" frameborder="0" marginheight="0" marginwidth="0">Carregando…</iframe>
 
 <small><i>Este texto foi produzido em parceria com o 5ª edição projeto [Dia Nacional do Livro Infantil](https://dnli.aprender.digital){:target="_blank"} **#DNLI5**</i></small>
