@@ -8,24 +8,28 @@ categories: [ DNLI5 ]
 image: assets/images/posts2020/2020-04-07-livros.jpg
 image-sticky: assets/images/posts2020/2020-04-07-livros-sticky.jpg
 tags: [Internet, Atividades, Literatura, sticky]
-livros: 
- - titulo: Confusão na Fazenda
-   img: confusao-na-fazenda.webp
-   autor: por Flávio Colombini
-   link: https://www.amazon.com.br/Confus%C3%A3o-na-Fazenda-Fl%C3%A1vio-Colombini-ebook/dp/B07GDPTJFX/ref=sr_1_5?fst=as%3Aoff&linkCode=sl2&linkId=42c97d9eb76291db101519adfd350b54&qid=1586274362&refinements=p_n_feature_browse-bin%3A6406078011%2Cp_36%3A5560479011&rnid=5560477011&s=digital-text&sr=1-5 
- - titulo: O Pequeno Livro de Hai-kais do Menino Maluquinho
-   img: hai-kais.webp
-   autor: por Ziraldo
-   link: https://www.amazon.com.br/Pequeno-Livro-Hai-kais-Menino-Maluquinho-ebook/dp/B00AC93M9U/ref=sr_1_6?fst=as%3Aoff&linkCode=sl2&linkId=42c97d9eb76291db101519adfd350b54&qid=1586274362&refinements=p_n_feature_browse-bin%3A6406078011%2Cp_36%3A5560479011&rnid=5560477011&s=digital-text&sr=1-6   
- - titulo: Dora fantasmagórica
-   img: dora-fantasmagorica.webp
-   autor: por Abby Hanlon e Milena Vargas
-   link: https://www.amazon.com.br/Dora-fantasmag%C3%B3rica-Abby-Hanlon-ebook/dp/B07PXPLM2H/ref=sr_1_7?fst=as%3Aoff&linkCode=sl2&linkId=42c97d9eb76291db101519adfd350b54&qid=1586274362&refinements=p_n_feature_browse-bin%3A6406078011%2Cp_36%3A5560479011&rnid=5560477011&s=digital-text&sr=1-7  
- - titulo: Dando nó na língua
-   img: dando-no-lingua.webp
-   autor: por Mirna Pinsky
-   link: https://www.amazon.com.br/Dando-n%C3%B3-l%C3%ADngua-Mirna-Pinsky-ebook/dp/B01N2HN80I/ref=sr_1_10?fst=as%3Aoff&linkCode=sl2&linkId=42c97d9eb76291db101519adfd350b54&qid=1586274362&refinements=p_n_feature_browse-bin%3A6406078011%2Cp_36%3A5560479011&rnid=5560477011&s=digital-text&sr=1-10
-
+pequenos: 
+  - titulo: Confusão na Fazenda
+    img: confusao-na-fazenda.webp
+    autor: por Flávio Colombini
+    link: https://www.amazon.com.br/Confus%C3%A3o-na-Fazenda-Fl%C3%A1vio-Colombini-ebook/dp/B07GDPTJFX/ref=sr_1_5?fst=as%3Aoff&linkCode=sl2&linkId=42c97d9eb76291db101519adfd350b54&qid=1586274362&refinements=p_n_feature_browse-bin%3A6406078011%2Cp_36%3A5560479011&rnid=5560477011&s=digital-text&sr=1-5 
+  - titulo: Dando nó na língua
+    img: dando-no-lingua.webp
+    autor: por Mirna Pinsky
+    link: https://www.amazon.com.br/Dando-n%C3%B3-l%C3%ADngua-Mirna-Pinsky-ebook/dp/B01N2HN80I/ref=sr_1_10?fst=as%3Aoff&linkCode=sl2&linkId=42c97d9eb76291db101519adfd350b54&qid=1586274362&refinements=p_n_feature_browse-bin%3A6406078011%2Cp_36%3A5560479011&rnid=5560477011&s=digital-text&sr=1-10
+maiores:
+  - titulo: O Pequeno Livro de Hai-kais do Menino Maluquinho
+    img: hai-kais.webp
+    autor: por Ziraldo
+    link: https://www.amazon.com.br/Pequeno-Livro-Hai-kais-Menino-Maluquinho-ebook/dp/B00AC93M9U/ref=sr_1_6?fst=as%3Aoff&linkCode=sl2&linkId=42c97d9eb76291db101519adfd350b54&qid=1586274362&refinements=p_n_feature_browse-bin%3A6406078011%2Cp_36%3A5560479011&rnid=5560477011&s=digital-text&sr=1-6   
+  - titulo: O Macaco Roxo e os Nin Guens
+    img: macaco-roxo.webp
+    autor: por Caio Maia e João Picoli
+    link: https://www.amazon.com.br/Macaco-Roxo-Nin-Guens-ebook/dp/B078B5F6CD/ref=sr_1_15?fst=as%3Aoff&linkCode=sl2&linkId=42c97d9eb76291db101519adfd350b54&qid=1586274362&refinements=p_n_feature_browse-bin%3A6406078011%2Cp_36%3A5560479011&rnid=5560477011&s=digital-text&sr=1-15
+  - titulo: Dora fantasmagórica
+    img: dora-fantasmagorica.webp
+    autor: por Abby Hanlon e Milena Vargas
+    link: https://www.amazon.com.br/Dora-fantasmag%C3%B3rica-Abby-Hanlon-ebook/dp/B07PXPLM2H/ref=sr_1_7?fst=as%3Aoff&linkCode=sl2&linkId=42c97d9eb76291db101519adfd350b54&qid=1586274362&refinements=p_n_feature_browse-bin%3A6406078011%2Cp_36%3A5560479011&rnid=5560477011&s=digital-text&sr=1-7  
 ---
 <link rel="stylesheet" href="/assets/css/plyr.css" />
 <style>
@@ -62,9 +66,10 @@ Neste período de quarentena a Amazon, em parceria com autores e editoras, refor
 
 A lista completa dos livros gratuitos para todas as idades você encontra [aqui](https://amazon.com.br/ebooksgratuitos){:target="_blank"}. Para facilitar, trazemos o link direto para alguns **títulos infantis** que encontramos no site (*última verificação em 7/Abril/2020*) e que podem ser baixados sem custo. Para quem ainda não tem conta na Amazon buscamos um tutorial no Yoube que mostra o processo. Veja o link ao final desta publicação.
 
-Lista de e-books infantis:
+## Lista de e-books infantis ##
+Para os pequenos (não alfabetizados ou em alfabetização):
 <table>
-  {% for livro in page.livros %}
+  {% for livro in page.pequenos %}
   <tr onclick="window.open('{{ livro.link }}', '_blank')">
     <td style="vertical-align: top">
       <img class="bruxa" align="top" src="/assets/images/posts2020/livros/{{ livro.img }}">
@@ -76,6 +81,22 @@ Lista de e-books infantis:
   </tr>
   {% endfor %}
 </table>
+
+Para os maiorzinhos (já alfabetizados):
+<table>
+  {% for livro in page.maiores %}
+  <tr onclick="window.open('{{ livro.link }}', '_blank')">
+    <td style="vertical-align: top">
+      <img class="bruxa" align="top" src="/assets/images/posts2020/livros/{{ livro.img }}">
+    </td>
+    <td class="bruxa-desc">
+      <b>{{ livro.titulo }}</b><br>
+      <small>{{ livro.autor }}</small>
+    </td>
+  </tr>
+  {% endfor %}
+</table>
+
 
 Para quem não tem conta na Amazon, veja [neste link um tutorial](https://www.youtube.com/watch?v=E2I3e_xP9Nk){:target="_blank"} que encontramos no Youtube.
 
