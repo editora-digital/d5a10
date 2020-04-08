@@ -54,7 +54,7 @@ text-align: center;
   font-weight: bold;
 }
 </style>
-Inventor de histórias, como se autodefine, Ilan já publicou mais de 60 livros infantis e juvenis e ganhou diversas vezes o selo “Altamente Recomendável” pela FNLIJ - Fundação Nacional do Livro Infanto Juvenil. Pela mesma Fundação ganhou três prêmios:
+Inventor de histórias, como se autodefine, Ilan já publicou mais de 60 livros infantis e juvenis, entre os quais <b>[Até as princesas soltam pum](https://www.amazon.com.br/At%C3%A9-as-Princesas-Soltam-Pum/dp/8574122394/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=At%C3%A9+as+Princesas+Soltam+Pum&qid=1586374450&s=books&sr=1-1&_encoding=UTF8&tag=greendot06-20&linkCode=ur2&linkId=5780b589f2ca40f86f7276edd5fe4789&camp=1789&creative=9325){:target="_blank"}</b> e ganhou diversas vezes o selo “Altamente Recomendável” pela FNLIJ &#8212; Fundação Nacional do Livro Infanto Juvenil. Pela mesma Fundação ganhou três prêmios:
  * Melhor livro para Crianças 2011, pelo livro "O Alvo" (*Ed. Ática*). 
  * Melhor livro de reconto 2009, pelas "14 Pérolas da Índia" (*Ed. Brinque Book*).
  * Melhor livro-Imagem 2010, pelo "Telefone sem Fio" (*Ed. Cia da Letrinhas*). 
@@ -75,7 +75,7 @@ Nesta entrevista ao <spam class="d5a10">d5a10</spam> ele falou sobre a importân
 <b>IB</b>: *Eu não planejei me tornar escritor de livros infantis, a ideia começou a ser gestada quando comecei a trabalhar aos 18 anos num projeto educativo. Fazia faculdade de Psicologia e precisava ganhar dinheiro para ajudar a pagá-la. No meu primeiro dia de trabalho, crianças de 4 anos me pediram para contar histórias e eu respondi que não sabia contar, uma delas então me disse uma palavra que mudou a minha vida e me tornou o que sou hoje. Ela disse: "SE VOCÊ NÃO SABE, INVENTA!", e foi isso que fiz e não parei mais desde então, sou um inventor de histórias.*
 
 #### <spam class="d5a10">d5a10</spam>: Para você, qual é o maior desafio quando pensa em escrever um livro para crianças?
-<b>IB</b>: *O maior desafio é não subestimar a inteligência infantil, elas são muito mais espertas do que nós adultos imaginamos. Eles querem uma literatura que converse com seus mais profundos anseios emocionais e cognitivos.*
+<b>IB</b>: *O maior desafio é não subestimar a inteligência infantil, as crianças são muito mais espertas do que nós adultos imaginamos. Elas querem uma literatura que converse com seus mais profundos anseios emocionais e cognitivos.*
 
 #### <spam class="d5a10">d5a10</spam>: Qual a importância e a principal função da literatura infantil?
 <b>IB</b>: *As histórias são o alimento da infância, o mundo simbólico é o que dá sentido à vida. Portanto, a literatura infantil é um guia emocional do crescimento interno e externo da criança.*
@@ -87,13 +87,13 @@ Nesta entrevista ao <spam class="d5a10">d5a10</spam> ele falou sobre a importân
 <b>IB</b>: *Eu não penso nisso quando faço os meus livros, mas sabemos que quanto mais a criança ouve histórias, melhor ela chega na escola e melhor compreensão ela tem das palavras. Com certeza o rendimento escolar melhora quando as crianças são banhadas diariamente com histórias.*
 
 #### <spam class="d5a10">d5a10</spam>: Qual é a importância de ações incentivo à leitura desde a primeira infância?
-<b>IB</b>: *É de extrema importância começar cedo , quanto mais cedo melhor. Crianças que ouviram histórias de seus pais desde muito cedo chegam mais preparados para o mundo escolar, SEM IMAGINAÇÃO NÃO HÁ APRENDIZAGEM.*
+<b>IB</b>: *É de extrema importância começar cedo, quanto mais cedo melhor. Crianças que ouvem histórias de seus pais desde muito cedo chegam mais preparados para o mundo escolar, SEM IMAGINAÇÃO NÃO HÁ APRENDIZAGEM.*
 
 #### <spam class="d5a10">d5a10</spam>: Como pais e professores podem incentivar nossas crianças a lerem mais?
 <b>IB</b>: *Em primeiro lugar sendo modelos de leitores, não adianta querer que o filho ou o aluno sejam leitores se nós adultos não o somos. Em segundo lugar, ter livros em casa ou levá-los para lugares que o tenham: bibliotecas públicas, livrarias etc. Em terceiro lugar, reservar um tempo diário para compartilhar histórias.*
 
 #### <spam class="d5a10">d5a10</spam>: Uma mensagem final.
-<b>IB</b>: *As histórias sustentam nossa psique, sem elas o mundo não faria sentido, portanto, mergulhe seus filhos no mundo dos livros infantis e de lá que eles retirarão sua força e coragem para enfrentar os grandes desafios do nosso mundo.*
+<b>IB</b>: *As histórias sustentam nossa psique, sem elas o mundo não faria sentido. Portanto, mergulhe seus filhos no mundo dos livros infantis e de lá que eles retirarão sua força e coragem para enfrentar os grandes desafios do nosso mundo.*
 
 <style>
 .obra {float: left; width: 22%; margin-right: 15px;}
