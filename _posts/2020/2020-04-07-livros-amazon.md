@@ -77,7 +77,7 @@ text-align: center;
 <a href="https://aprender.digital/"><img class="thumb" src="/assets/images/o-nome-da-gente.gif" align="rigth"></a>
 Neste período de quarentena a Amazon, em parceria com autores e editoras, reforçou a sua lista de *eBooks* que podem ser baixados gratuitamente.  Entre as obras disponíveis para download estão clássicos da literatura brasileira como Dom Casmurro, O Cortiço e Macunaíma. Você também encontrará livros como Vinte Mil Léguas Submarinas, uma das obras literárias mais famosas do escritor Júlio Verne. Não existe uma data específica até quando eles ficarão gratuitos. Então, aproveite e baixe logo. Você pode baixar mais de um livro para posteriormente ler com as crianças usando o computador, tablet ou celular.
 
-A lista completa dos livros gratuitos para todas as idades você encontra [aqui](https://amazon.com.br/ebooksgratuitos){:target="_blank"}. Para facilitar, trazemos o link direto para alguns **títulos infantis** que encontramos no site (*última verificação em 7/Abril/2020*) e que podem ser baixados sem custo. Para quem ainda não tem conta na Amazon buscamos um tutorial no Yoube que mostra o processo. Veja o link ao final desta publicação.
+A lista completa dos livros gratuitos para todas as idades você encontra [aqui](https://amazon.com.br/ebooksgratuitos){:target="_blank"}. Para facilitar, trazemos o link direto para alguns **títulos infantis** que encontramos no site (*última verificação em 8/Abril/2020*) e que podem ser baixados sem custo. Para quem ainda não tem conta na Amazon buscamos um tutorial no Yoube que mostra o processo. Veja o link ao final desta publicação.
 
 <style>
 div.note
