@@ -29,6 +29,10 @@ pequenos:
     img: de-onde-vem-alegria.webp
     autor: por Flávio Colombini e Bruno Staniscia
     link: https://www.amazon.com.br/onde-vem-alegria-Fl%C3%A1vio-Colombini-ebook/dp/B07T2F4Z1T/ref=sr_1_11?fst=as%3Aoff&linkCode=sl2&linkId=42c97d9eb76291db101519adfd350b54&qid=1586362208&refinements=p_n_feature_browse-bin%3A6406078011%2Cp_36%3A5560479011&rnid=5560477011&s=digital-text&sr=1-11
+  - titulo: Corujinha Pipoca
+    img: corujinha-pipoca.webp
+    autor: por Flávio Colombini e Bruno Staniscia
+    link: https://www.amazon.com.br/Corujinha-Pipoca-Rossana-Cantarelli-Almeida-ebook/dp/B07NLJY6XX/ref=sr_1_72?fst=as%3Aoff&linkCode=sl2&linkId=42c97d9eb76291db101519adfd350b54&qid=1586365335&refinements=p_n_feature_browse-bin%3A6406078011%2Cp_36%3A5560479011&rnid=5560477011&s=digital-text&sr=1-72
 maiores:
   - titulo: O Pequeno Livro de Hai-kais do Menino Maluquinho
     img: hai-kais.webp
