@@ -26,10 +26,6 @@ maiores:
     img: hai-kais.webp
     autor: por Ziraldo
     link: https://www.amazon.com.br/Pequeno-Livro-Hai-kais-Menino-Maluquinho-ebook/dp/B00AC93M9U/ref=sr_1_6?fst=as%3Aoff&linkCode=sl2&linkId=42c97d9eb76291db101519adfd350b54&qid=1586274362&refinements=p_n_feature_browse-bin%3A6406078011%2Cp_36%3A5560479011&rnid=5560477011&s=digital-text&sr=1-6   
-  - titulo: O Macaco Roxo e os Nin Guens
-    img: macaco-roxo.webp
-    autor: por Caio Maia e João Picoli
-    link: https://www.amazon.com.br/Macaco-Roxo-Nin-Guens-ebook/dp/B078B5F6CD/ref=sr_1_15?fst=as%3Aoff&linkCode=sl2&linkId=42c97d9eb76291db101519adfd350b54&qid=1586274362&refinements=p_n_feature_browse-bin%3A6406078011%2Cp_36%3A5560479011&rnid=5560477011&s=digital-text&sr=1-15
   - titulo: Dora fantasmagórica
     img: dora-fantasmagorica.webp
     autor: por Abby Hanlon e Milena Vargas
