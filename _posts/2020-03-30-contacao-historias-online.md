@@ -114,7 +114,7 @@ Histórias já publicadas:
     </td>
     <td class="bruxa-desc">
       <b>Bruxa Dedeca</b><br>
-      <a href="https://www.facebook.com/PrefsCuritiba/videos/220430529034041/" target="_blank">04/04/2020  &#8212; A Girafa sem Sono<br></a>
+      <a href="https://www.facebook.com/PrefsCuritiba/videos/220430529034041/" target="_blank">06/04/2020  &#8212; A Girafa sem Sono<br></a>
     </td>
   </tr>
   <tr>
