@@ -83,10 +83,12 @@ div.note
      /*font-family: 'Roboto', serif;*/
      line-height: 1.3em;
      overflow: hidden;
-     padding: 12px;
+     padding: 3px 12px 12px 12px;
+     font-style: italic;
 }
 b.noteTitulo {
-  line-height: 1.7em;
+  line-height: 1.9em;
+  font-style: normal;
 }
 </style>
 <div class="note">
