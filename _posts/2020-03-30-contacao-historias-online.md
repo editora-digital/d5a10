@@ -132,7 +132,7 @@ Histórias já publicadas:
     </td>
     <td class="bruxa-desc">
       <b>Bruxa Meméia</b><br>
-      <a href="https://www.facebook.com/watch/?v=236167760912315" target="_blank">09/04/2020  &#8212; João esperto leva o presente certo<br></a>
+      <a href="https://www.facebook.com/PrefsCuritiba/videos/156907655634004/" target="_blank">09/04/2020  &#8212; João esperto leva o presente certo<br></a>
     </td>
   </tr>
 </table>
