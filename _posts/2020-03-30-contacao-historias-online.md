@@ -126,7 +126,15 @@ Histórias já publicadas:
       <a href="https://www.facebook.com/watch/?v=236167760912315" target="_blank">08/04/2020  &#8212; A lenda do dia e da noite<br></a>
     </td>
   </tr>
-  
+  <tr>
+    <td style="vertical-align: top">
+      <img class="bruxa" align="top" src="/assets/images/posts2020/bruxas/memeia.png">
+    </td>
+    <td class="bruxa-desc">
+      <b>Bruxa Meméia</b><br>
+      <a href="https://www.facebook.com/watch/?v=236167760912315" target="_blank">09/04/2020  &#8212; João esperto leva o presente certo<br></a>
+    </td>
+  </tr>
 </table>
 
 
