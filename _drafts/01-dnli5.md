@@ -22,11 +22,11 @@ No dia 18 de Abril é comemorado o aniversário de um dos maiores escritores inf
 
 Na mesma data de aniversário de Lobato comemora-se o **Dia Nacional do Livro Infantil** e, para marcar essa data, o <spam class="d5a10">d5a10</spam> traz uma série de materiais que permeiam o mundo da literatura infantil. 
 
-Durante este mês, publicaremos conteúdos exclusivos que fazem parte da 5ª edição do projeto de incentivo à leitura [DNLI5 &#8212; Dia Nacional do Livro Infantil](https://dnli.aprender.digital/){:target="_blank"}. Além de artigos e entrevistas, teremos curadoria de livros e audiolivros para os pais lerem e ouvirem com as crianças, e iniciativas que estimulem a família a participar de forma ativa no incentivo à leitura das crianças.
+Durante este mês, publicaremos conteúdos exclusivos que fazem parte da 5ª edição do projeto de incentivo à leitura [DNLI5 &#8212; Dia Nacional do Livro Infantil](https://dnli.aprender.digital/){:target="_blank"}. Além de artigos e entrevistas, teremos curadoria de livros e audiolivros, para os pais lerem e ouvirem com as crianças, e divulgaremos algumas iniciativas para estimular a família a participar de forma ativa no incentivo à leitura das crianças.
 
 Então, para iniciar oficialmente o mês da Literatura Infantil, trazemos uma entrevista exclusiva com o autor **Ilan Brenman**. Ele é um dos mais importantes autores de livros infantis do Brasil, já publicou mais de 60 livros infantis e juvenis. [Confira a entrevista aqui](/ilan-brenman/).
 
 Aproveite e FELIZ DIA NACIONAL DO LIVRO INFANTIL! 😍
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSd8Pl2KwVj0f3hrZaZyGgm0oOE5qWk_fqQIJ_FGwcJu4gfOng/viewform?embedded=true" width="100%" height="547" frameborder="0" marginheight="0" marginwidth="0">Carregando…</iframe>
-<small><i>Este texto foi produzido em parceria com o 5ª edição projeto [Dia Nacional do Livro Infantil](https://dnli.aprender.digital){:target="_blank"} **#DNLI5**</i></small>
+<small><i>Este texto foi produzido em parceria com o projeto [Dia Nacional do Livro Infantil](https://dnli.aprender.digital){:target="_blank"} **#DNLI5**</i></small>
