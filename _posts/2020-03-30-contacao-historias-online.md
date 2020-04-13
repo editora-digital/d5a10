@@ -135,6 +135,15 @@ Histórias já publicadas:
       <a href="https://www.facebook.com/PrefsCuritiba/videos/156907655634004/" target="_blank">09/04/2020  &#8212; João esperto leva o presente certo<br></a>
     </td>
   </tr>
+  <tr>
+    <td style="vertical-align: top">
+      <img class="bruxa" align="top" src="/assets/images/posts2020/bruxas/guinevere.png">
+    </td>
+    <td class="bruxa-desc">
+      <b>Bruxa Guinevere</b><br>
+      <a href="https://www.facebook.com/PrefsCuritiba/videos/2547739332208673/" target="_blank">13/04/2020  &#8212; Sopa de pedra<br></a>
+    </td>
+  </tr>
 </table>
 
 
