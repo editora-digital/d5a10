@@ -4,10 +4,10 @@ title:  "Livros infantis gratuitos da Amazon para baixar"
 description: "Neste período de quarentena a Amazon, em parceria com autores e editoras, reforçou a sua lista de <i>eBooks</i> gratuitos."
 text: "Para facilitar, trazemos o link direto para alguns títulos infantis."
 author: Parau
-categories: [ DNLI5 ]
+categories: [ Literatura ]
 image: assets/images/posts2020/2020-04-07-livros.jpg
 image-sticky: assets/images/posts2020/2020-04-07-livros-sticky.jpg
-tags: [Internet, Atividades, Literatura, sticky]
+tags: [Internet, Atividades, Literatura]
 pequenos: 
   - titulo: Confusão na Fazenda
     img: confusao-na-fazenda.webp

@@ -20,13 +20,17 @@ date_format: "%b %-d, %Y"
 include: ["_pages"]
 permalink: /:title/
 
+collections:
+  dnli5:
+    output: true
+
 # Plugins
 plugins: 
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-paginate
   - jekyll-seo-tag
-  
+
 authors:
     Naira:
       name:           Naira Passoni

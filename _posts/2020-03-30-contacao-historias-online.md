@@ -7,7 +7,7 @@ author: Naira
 categories: [ Atividades ]
 image: assets/images/posts2020/2020-03-30-contacao-historias.png
 image-sticky: assets/images/posts2020/2020-03-30-contacao-historias-sticky.jpg
-tags: [Internet, Atividades]
+tags: [Internet, Atividades, sticky]
 ---
 <link rel="stylesheet" href="/assets/css/plyr.css" />
 <style>
@@ -144,6 +144,16 @@ Histórias já publicadas:
       <a href="https://www.facebook.com/PrefsCuritiba/videos/2547739332208673/" target="_blank">13/04/2020  &#8212; Sopa de pedra<br></a>
     </td>
   </tr>
+  <tr>
+    <td style="vertical-align: top">
+      <img class="bruxa" align="top" src="/assets/images/posts2020/bruxas/alegria.png">
+    </td>
+    <td class="bruxa-desc">
+      <b>Bruxa Alegria</b><br>
+      <a href="https://www.facebook.com/watch/?v=2939898746092340" target="_blank">14/04/2020  &#8212; Bebê e o controle remoto<br></a>
+    </td>
+  </tr>
+
 </table>
 
 

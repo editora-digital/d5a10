@@ -2,6 +2,7 @@
 layout: post
 title:  "O inventor de histórias"
 description: "Neste mês da literatura infantil, conversamos com Ilan Brenman, que é um dos mais importantes autores de livros infantis do Brasil. Confira a entrevista completa!"
+permalink: /DNLI5/ilan-brenman
 author: Naira
 categories: [ DNLI5 ]
 image: assets/images/posts2020/ilan/thumb.jpg
