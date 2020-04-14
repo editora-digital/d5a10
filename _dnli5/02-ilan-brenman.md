@@ -55,7 +55,7 @@ text-align: center;
   font-weight: bold;
 }
 </style>
-Inventor de histórias, como se autodefine, Ilan Brenman já publicou mais de 60 livros infantis e juvenis, entre os quais <b>[Até as princesas soltam pum](https://www.amazon.com.br/At%C3%A9-as-Princesas-Soltam-Pum/dp/8574122394/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=At%C3%A9+as+Princesas+Soltam+Pum&qid=1586374450&s=books&sr=1-1&_encoding=UTF8&tag=greendot06-20&linkCode=ur2&linkId=5780b589f2ca40f86f7276edd5fe4789&camp=1789&creative=9325){:target="_blank"}</b> editado em vários países. Com suas obras, Ilan ganhou diversas vezes o selo “Altamente Recomendável” pela FNLIJ &#8212; Fundação Nacional do Livro Infanto Juvenil. Pela mesma Fundação ganhou três prêmios:
+Inventor de histórias, como se autodefine, Ilan Brenman já publicou mais de 60 livros infantis e juvenis, entre os quais <b>[Até as princesas soltam pum](https://www.amazon.com.br/At%C3%A9-as-Princesas-Soltam-Pum/dp/8574122394/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=At%C3%A9+as+Princesas+Soltam+Pum&qid=1586374450&s=books&sr=1-1&_encoding=UTF8&tag=greendot06-20&linkCode=ur2&linkId=5780b589f2ca40f86f7276edd5fe4789&camp=1789&creative=9325){:target="_blank"}</b>, editado em vários países. Com suas obras, Ilan ganhou diversas vezes o selo “Altamente Recomendável” pela FNLIJ &#8212; Fundação Nacional do Livro Infanto Juvenil. Pela mesma Fundação ganhou três prêmios:
  * Melhor livro para Crianças 2011, pelo livro "O Alvo" (*Ed. Ática*). 
  * Melhor livro de reconto 2009, pelas "14 Pérolas da Índia" (*Ed. Brinque Book*).
  * Melhor livro-Imagem 2010, pelo "Telefone sem Fio" (*Ed. Cia da Letrinhas*). 
