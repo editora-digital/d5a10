@@ -32,6 +32,14 @@ plugins:
   - jekyll-seo-tag
 
 authors:
+    Parau:
+      name:           Parahuari Branco (Parau)
+      site:           https://www.linkedin.com/in/parau/
+      avatar:         assets/images/parau.jfif
+      bio:            "Pai, educador e desenvolvedor. Apaixonado pela área de educação, tenho mais de 20 anos de experiência no desenvolvimento de soluções tecnológicas voltadas a aprendizagem. Aqui, escrevo sobre o mundo digital e o relacionamento saudável entre a criança e a tecnologia."
+      email:          d5a10.editora@gmail.com
+      twitter:        https://twitter.com/parau
+
     Naira:
       name:           Naira Passoni
       site:           https://www.linkedin.com/in/naira-passoni-6756bb101/
@@ -40,14 +48,15 @@ authors:
       email:          naira.aprender.digital@gmail.com
       twitter:        https://twitter.com/NairaPassoni
 
-    Parau:
-      name:           Parahuari Branco (Parau)
-      site:           https://www.linkedin.com/in/parau/
-      avatar:         assets/images/parau.jfif
-      bio:            "Pai, educador e desenvolvedor. Apaixonado pela área de educação, tenho mais de 20 anos de experiência no desenvolvimento de soluções tecnológicas voltadas a aprendizagem. Aqui, escrevo sobre o mundo digital e o relacionamento saudável entre a criança e a tecnologia."
-      email:          d5a10.editora@gmail.com
-      twitter:        https://twitter.com/parau
- 
+
+    Nanra:
+      name:           Nanra Branco
+      site:           https://www.facebook.com/amodabrasilgastronomia/
+      avatar:         assets/images/nanra.jpg
+      bio:            "Jornalista apaixonada por gastronomia que transformou seu amor em profissão. Trabalho como personal chef, ministro cursos e palestras na área. Produtora de conteúdo do @amodabrasilgastronomia perfil do Instagram e Facebook sobre gastronomia e cozinha artesanal. Adepta da cozinha intuitiva, aqui quero compartilhar a importância da comida de verdade no dia a dia das famílias e do poder de descascar mais e desembalar menos."
+      email:          amodabrasilgastronomia@gmail.com
+      instagram:      https://www.instagram.com/amodabrasilgastronomia/
+
 # Defaults
 defaults:
 
