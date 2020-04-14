@@ -36,7 +36,7 @@ Durante este mês, publicaremos conteúdos exclusivos que fazem parte da 5ª edi
  * 27/04: Como montar uma biblioteca comunitária. 
  * 29/04: Uma viagem pelas sete bibliotecas mais incríveis do mundo!
 
-Além disso, você também poderá acompanhar a ação pelo [**INSTAGRAM**](https://www.instagram.com/d5a10/){:taget="_blank"}. 
+Além disso, você também poderá acompanhar a ação pelo [**INSTAGRAM**](https://www.instagram.com/d5a10/){:target="_blank"}. 
 
 Então, agora que você já está por dentro da nossa programação, iniciamos oficialmente o mês da Literatura Infantil com a entrevista exclusiva de Ilan Brenman, um dos mais importantes autores de livros infantis do Brasil, para o <spam class="d5a10">d5a10</spam>. [Confira a entrevista aqui](/DNLI5/ilan-brenman/).
 
