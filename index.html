@@ -37,7 +37,7 @@ description: "d5a10 é seu novo canal de informação sobre uma fase interessant
 {% endfor %}
 
 
-<!-- Sticky - add sticky tag to the post you want to highlight here - tags: [sticky] -->
+<!-- Sticky -->
 {% for post in site.posts %} 
 {% if post.tags contains "sticky" %}
   <div class="jumbotron jumbotron-fluid jumbotron-home pt-0 pb-0 mt-3 mb-2rem bg-lightblue position-relative">
@@ -62,7 +62,7 @@ description: "d5a10 é seu novo canal de informação sobre uma fase interessant
 {% endif %}
 {% endfor %}
 
-
+<!-- DOIS POSTS PRINCIPAIS -->
 <div class="row "> <!--remove-site-content-margin-->
   <!-- latest post -->
   {% assign latest_post = site.posts[0] %}
@@ -97,7 +97,7 @@ description: "d5a10 é seu novo canal de informação sobre uma fase interessant
           </div>
       </div>
   </div>
-  {% assign latest_post = site.posts[2] %}
+  {% assign latest_post = site.posts[3] %}
   <div class="col-md-6">
     <div class="card border-0 mb-4 box-shadow">
       <a href="{{site.baseurl}}{{latest_post.url}}">
@@ -130,10 +130,10 @@ description: "d5a10 é seu novo canal de informação sobre uma fase interessant
   </div>
 </div>  
 
-
+<!-- LISTA DE POSTS MENORES -->
 <div class="row "> <!--remove-site-content-margin-->
   <div class="col-md-6">
-    {%- assign second_post = site.posts[3] -%}        
+    {%- assign second_post = site.posts[1] -%}        
     <div class="mb-3 d-flex align-items-center">                
             {% if second_post.image %}
             <div class="col-md-4">
