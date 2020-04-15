@@ -147,7 +147,7 @@ b.noteTitulo {
 </style>
 <div class="note">
 <b class="noteTitulo">❤️ Dica #1</b><br>
-Leve as crianças para cozinha. Inclua os pequenos na <b>escolha</b> dos ingredientes e no <b>preparo</b> das refeições. Preparar a própria refeição dá um sabor a mais para os pratos. Além disso, você estará dando o <b>primeiro passo</b> para que a criança se torne mais <b>autosuficiente</b> e mais <b>consciente</b> de sua alimentação hoje, e também nas escolhas que ela fará na vida adulta.
+Leve as crianças para cozinha. Inclua os pequenos na <b>escolha</b> dos ingredientes e no <b>preparo</b> das refeições. Preparar a própria refeição dá um sabor a mais para os pratos. Além disso, você estará dando o <b>primeiro passo</b> para que a criança se torne mais <b>autossuficiente</b> e mais <b>consciente</b> de sua alimentação hoje, e também nas escolhas que ela fará na vida adulta.
 </div>
 <br>
 Então, gostou? Aguarde o meu próximo texto para conhecer a **próxima dica**! 😍 Aproveite e se inscreva (veja abaixo 👇) para receber os conteúdos do <spam class="d5a10">d5a10</spam> e o meu próximo texto no seu e-mail.
