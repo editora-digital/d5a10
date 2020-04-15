@@ -16,6 +16,16 @@ tags: [Alimentação, dica]
   color:gray;
   font-weight: bold;
 }
+figure {
+  margin: 0rem;
+}
+figcaption {
+display: block;
+position: relative;
+top:-30px;
+font-style: italic;
+text-align: center;
+}
 .gallery {
   background: #EEE;
 }
@@ -82,6 +92,10 @@ tags: [Alimentação, dica]
 </style>
 <a href="https://aprender.digital/"><img class="onomegente" src="/assets/images/o-nome-da-gente.gif" align="rigth"></a>
 Você quer criar seus filhos para que sejam independentes na vida adulta? E se eu disser que a resposta também pode estar na cozinha? Este é um espaço para estimulamos as pessoas a voltarem a cozinhar e sentir o prazer de descascar mais e desembalar menos. O prazer da comida de verdade. Se isso já é importante para nós adultos, o que dizer das crianças que nascem aprendendo que a comida vem do pote e do saquinho. Muitas sequer sabem como se parece a versão *in natura* dos alimentos. Na semana passada, um colega do meu filho dizia o quanto amava *catchup*, e não sabia que o condimento é feito de tomates. Quer dizer, além de vários aditivos e outras coisas mais. A má alimentação infantil é a causa de muito problemas que nossas crianças desenvolverão na idade adulta, e entre eles também está a dependência alimentar. É claro que os pais e responsáveis sabem disso e se esforçam para inserir uma boa alimentação na vida das crianças. Acontece que nem sempre os pequenos aceitam tão facilmente, e realmente não é fácil competir com o paladar de quem já está acostumado com doses grandes de açúcar, gorduras saturadas, etc. Muitas crianças ainda têm aversão a novos alimentos e acabam ficando restritos a uma dieta com poucos itens. 
+
+<figure>
+<img src="/assets/images/posts2020/2020-04-15-crianca-na-cozinha-dica1-vegetais.jpg">
+</figure>
 
 Mas então qual o segredo para proporcionar às crianças a experiência de uma dieta mais diversificada? O primeiro passo está em levar as crianças para dentro da cozinha. A dica é incluí-las no preparo das refeições, na escolha dos ingredientes, nos diversos preparos que cada um deles podem gerar. As mudanças vão começar a acontecer caso você persista. A dica não é obrigar a comer vegetais, mas ensiná-lo a como prepará-los. O orgulho de comer algo preparado pelas próprias mãos dará um gosto todo especial aos pratos. Ao cozinhar a criança não aprende só sobre alimentação, seus cinco sentidos são estimulados, aprende-se matemática, química, biologia, estimula-se a leitura e a escrita. Além disso a criança ganha autonomia e independência, pois aprende habilidades que serão essenciais para a vida adulta.
 
