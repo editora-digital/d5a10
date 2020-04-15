@@ -6,7 +6,7 @@ text: Abril é um mês especialmente dedicado aos livros, autores e à literatur
 permalink: /DNLI5/abertura
 author: Naira
 categories: [DNLI5]
-image: assets/images/posts2020/dnli5/dnli.png
+image: assets/images/posts2020/dnli5/dnli5.png
 image-sticky: assets/images/posts2020/2020-04-07-livros-sticky.jpg
 tags: [Literatura, sticky]
 ---
