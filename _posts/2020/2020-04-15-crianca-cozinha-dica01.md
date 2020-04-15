@@ -86,7 +86,7 @@ Você quer criar seus filhos para que sejam independentes na vida adulta? E se e
 Mas então qual o segredo para proporcionar às crianças a experiência de uma dieta mais diversificada? O primeiro passo está em levar as crianças para dentro da cozinha. A dica é incluí-las no preparo das refeições, na escolha dos ingredientes, nos diversos preparos que cada um deles podem gerar. As mudanças vão começar a acontecer caso você persista. A dica não é obrigar a comer vegetais, mas ensiná-lo a como prepará-los. O orgulho de comer algo preparado pelas próprias mãos dará um gosto todo especial aos pratos. Ao cozinhar a criança não aprende só sobre alimentação, seus cinco sentidos são estimulados, aprende-se matemática, química, biologia, estimula-se a leitura e a escrita. Além disso a criança ganha autonomia e independência, pois aprende habilidades que serão essenciais para a vida adulta.
 
 <div style="color:lightgrey; text-align: right; font-size: 13px;"><small><i class="fa fa-info-circle" aria-hidden="true"></i> Publicidade</small></div>
-<div class="carousel js-flickity">
+<div class="carousel js-flickity" data-flickity='{ "autoPlay": true }'>
   <div class="carousel-cell">
     <a target="_blank" href="https://www.amazon.com.br/gp/product/B07D93T8L3/ref=as_li_tl?ie=UTF8&tag=greendot06-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07D93T8L3&linkId=715470d6457c0b41b422197328a3e4e7"><img width="100%" src="/assets/images/posts2020/produtos/crianca-na-cozinha.webp" alt="Avental Infantil" />
     <div class="slide-text"><i class="fa fa-shopping-cart" aria-hidden="true"></i> <small>Avental Infantil</small></div>
@@ -139,12 +139,3 @@ Leve as crianças para cozinha. Inclua os pequenos na <b>escolha</b> dos ingredi
 Então, gostou? Aguarde o meu próximo texto para conhecer a **próxima dica**! 😍 Aproveite e se inscreva (veja abaixo 👇) para receber os conteúdos do <spam class="d5a10">d5a10</spam> e o meu próximo texto no seu e-mail.
 
 <script src="/assets/js/flickity.pkgd.min.js"></script>
-<script>
-  var flkty = new Flickity( '.main-gallery', {
-  // options
-  cellAlign: 'center',
-  autoPlay: true,
-  contain: true
-  });
-  flkty.playPlayer();
-</script>
