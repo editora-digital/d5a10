@@ -18,7 +18,7 @@ tags: [Literatura]
 }
 </style>
 <a href="https://aprender.digital/"><img class="onomegente" src="/assets/images/o-nome-da-gente.gif" align="rigth"></a>
-É importante lembrar que nossos hábitos e atitudes são observados a todo momento pelos nossos filhos. Além disso, as referências mais próximas das crianças, pai e mãe principalmente, mas também de outros familiares, são aquelas nas quais elas acabam se espelhado. Portanto, adultos que cultivam bons hábitos inspiram os pequenos a seguirem seus exemplos. Infelizmente, o contrário também acontece, por isso precisamos ser vigilantes com aquilo que fazemos e dizemos, o tempo todo.
+É importante lembrar que nossos hábitos e atitudes são observados a todo momento pelos nossos filhos. Além disso, as referências mais próximas das crianças, pai e mãe principalmente, mas também de outros familiares, são aquelas nas quais elas acabam se espelhando. Portanto, adultos que cultivam bons hábitos inspiram os pequenos a seguirem seus exemplos. Infelizmente, o contrário também acontece, por isso precisamos ser vigilantes com aquilo que fazemos e dizemos, o tempo todo.
 
 Com a leitura não é diferente. Muitas vezes os pais exigem que seus filhos leiam mais, mas eles mesmos não têm esse hábito. Portanto, como uma criança vai entender que um livro é melhor do que um celular que os pais têm sempre em mãos? Isso quer dizer que, sim, é necessário uma cota de sacrifício por parte dos pais para evitar ou diminuir o uso do celular enquanto estão com os filhos. E isso não é apenas um bom artifício para incentivar a leitura, é saudável para a família em todos os aspectos, principalmente para a comunicação.
 
