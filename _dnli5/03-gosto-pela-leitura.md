@@ -3,6 +3,7 @@ layout: post
 title: "Gosto pela leitura: quando os pais são inspiração"
 description: "O melhor ensinamento é sempre aquele transmitido por meio do exemplo."
 author: Naira
+permalink: /DNLI5/gosto-pela-leitura
 categories: [ DNLI5 ]
 image: assets/images/posts2020/dnli5/gosto-pela-leitura.jpg
 tags: [Literatura]
@@ -32,5 +33,4 @@ As crianças maiores já escolhem suas leituras, então promova visitas às bibl
 
 Ah, e assim como um bom filme, bons livros rendem bons debates. Conversem em casa sobre as suas leituras, troquem livros com os filhos mais velhos, pesquisem títulos com os menores, presenteie as crianças com livros. Tudo isso, além de estimular o hábito de ler, garante preciosos momentos em família!
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSd8Pl2KwVj0f3hrZaZyGgm0oOE5qWk_fqQIJ_FGwcJu4gfOng/viewform?embedded=true" width="100%" height="547" frameborder="0" marginheight="0" marginwidth="0">Carregando…</iframe>
 <small><i>Este texto foi produzido em parceria com o 5ª edição projeto [Dia Nacional do Livro Infantil](https://dnli.aprender.digital){:target="_blank"} **#DNLI5**</i></small>

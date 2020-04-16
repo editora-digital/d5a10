@@ -10,7 +10,7 @@ description: "d5a10 é seu novo canal de informação sobre uma fase interessant
 <div class="container">
     
 {% if page.url == "/" %}
-
+  
 <!-- especial DNLI5 -->
 {% for post in site.dnli5 %} 
 {% if post.tags contains "sticky" %}
@@ -35,6 +35,67 @@ description: "d5a10 é seu novo canal de informação sobre uma fase interessant
   </div> 
 {% endif %}
 {% endfor %}
+
+<!-- LISTA DE POSTS MENORES DNLI -->
+<div class="row "> <!--remove-site-content-margin-->
+    <!-- COLUNA ESQUERDA -->
+    <div class="col-md-6">
+      {%- assign second_post = site.dnli5[1] -%}        
+      <div class="mb-3 d-flex align-items-top">                
+              {% if second_post.image %}
+              <div class="col-md-4">
+              <a href="{{site.baseurl}}{{second_post.url}}">
+               <img style="vertical-align: top" class="w-100" src="{% if second_post.image contains "://" %}{{ second_post.image }}{% else %}{{ second_post.image | absolute_url }}{% endif %}" alt="{{ second_post.title }}">
+              </a>
+              </div>
+              {% endif %}                
+              <div>
+                  <h2 class="mb-2 h6 font-weight-bold">
+                  <a class="text-dark" href="{{site.baseurl}}{{second_post.url}}">{{ second_post.title }}</a>
+                  </h2>
+                  <a class="text-dark" href="{{site.baseurl}}{{second_post.url}}">
+                  <small class="d-block text-muted">
+                      <span class="catlist">
+                      {{ second_post.description }}
+                      </span>                   
+                  </small>
+                  </a>
+                  <small class="text-muted">
+                      {% include translated_date.html date="2020-04-15 00:00:00 -0300" format=site.date_format lang=site.lang%}
+                  </small>
+              </div>
+      </div>
+    </div>
+    <!-- COLUNA DIREITA -->
+    <div class="col-md-6">
+        {%- assign second_post = site.dnli5[2] -%}        
+        <div class="mb-3 d-flex align-items-top">                
+                {% if second_post.image %}
+                <div class="col-md-4">
+                <a href="{{site.baseurl}}{{second_post.url}}">
+                 <img class="w-100" src="{% if second_post.image contains "://" %}{{ second_post.image }}{% else %}{{ second_post.image | absolute_url }}{% endif %}" alt="{{ second_post.title }}">
+                </a>
+                </div>
+                {% endif %}                
+                <div>
+                    <h2 class="mb-2 h6 font-weight-bold">
+                    <a class="text-dark" href="{{site.baseurl}}{{second_post.url}}">{{ second_post.title }}</a>
+                    </h2>
+                    <a class="text-dark" href="{{site.baseurl}}{{second_post.url}}">
+                    <small class="d-block text-muted">
+                        <span class="catlist">
+                            {{ second_post.description }}
+                        </span>                   
+                    </small>
+                    </a>
+                    <small class="text-muted">
+                        {% include translated_date.html date="2020-04-17 00:00:00 -0300" format=site.date_format lang=site.lang%}
+                    </small>
+                </div>
+        </div>
+    </div>
+</div>  
+
 
 
 <!-- Sticky -->
