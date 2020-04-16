@@ -42,5 +42,4 @@ Então, agora que você já está por dentro da nossa programação, iniciamos o
 
 Aproveite e FELIZ MÊS DA LITERATURA INFANTIL! 😍
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSd8Pl2KwVj0f3hrZaZyGgm0oOE5qWk_fqQIJ_FGwcJu4gfOng/viewform?embedded=true" width="100%" height="547" frameborder="0" marginheight="0" marginwidth="0">Carregando…</iframe>
 <small><i>Este texto foi produzido em parceria com o projeto [Dia Nacional do Livro Infantil](https://dnli.aprender.digital){:target="_blank"} **#DNLI5**</i></small>
