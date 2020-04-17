@@ -28,8 +28,8 @@ Para marcar essa data, o <spam class="d5a10">d5a10</spam> traz uma série de mat
 Durante este mês, publicaremos conteúdos exclusivos que fazem parte da 5ª edição do projeto de incentivo à leitura [DNLI5 &#8212; Dia Nacional do Livro Infantil](https://dnli.aprender.digital/){:target="_blank"}. Além de artigos e entrevistas, traremos curadoria de livros e audiolivros, para os pais lerem e ouvirem com as crianças, e divulgaremos algumas iniciativas para estimular a família a participar de forma ativa no incentivo à leitura das crianças.
 
 **E, para acompanhar nossa série especial, você pode se programar:**
- * 15/04: [Entrevista com o escritor infantil ILAN BRENMAN](/DNLI5/ilan-brenman).
- * 17/04: O gosto pela leitura: quando os pais são inspiração!
+ * 15/04: [Entrevista com o escritor infantil ILAN BRENMAN.](/DNLI5/ilan-brenman)
+ * 17/04: [O gosto pela leitura: quando os pais são inspiração!](/DNLI5/gosto-pela-leitura)
  * 20/04: Contar histórias: a importância da narrativa oral para as crianças.
  * 22/04: Audio Livros infantis - indicações de acessos gratuitos.
  * 24/04: Seleção de livros digitais infantis gratuitos.
