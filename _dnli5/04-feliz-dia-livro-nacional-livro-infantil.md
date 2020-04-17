@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Feliz Dia Nacional do Livro Infantil"
-description: "Ouvir histórias nutre o intelecto, estimula a imaginação, promove e fortalece vínculos afetivos."
+description: "Para comemorar, preparamos um presente especial
+ para você enviar a quem quiser!"
 permalink: /DNLI5/feliz-dia-nacional-livro-infantil
 author: Parau
 categories: [DNLI5]
@@ -62,17 +63,18 @@ text-align: center;
   margin-bottom: 0;
 }
 </style>
+Neste dia 18 de abril é **Dia Nacional do Livro Infantil** e aniversário do escritor Monteiro Lobato. E nós só poderíamos comemorar essa data de um jeito muito especial: incentivando a leitura! Por isso, junto com a equipe APRENDER.digital, preparamos uma versão online do livro **O NOME DA GENTE**, com acesso livre, para você personalizar e enviar de presente para aquela criança que você quer bem! (Ah, pode ser adulto também!!! 😉).
 
-**Texto fazendo o convite para uso do livro**
+Para enviar o livro digital de presente é muito simples. Basta preencher o formulário nesta página 👇 e clicar para gerar o livro.
 
-<figure>
-<img src="/assets/images/posts2020/dnli5/carol-levy.jpg" alt="Carol Levy">
-<figcaption>Carol Levy &#8212; <small>fonte Facebook @carollevyfanpage</small>.</figcaption>
-</figure>
+Ao final da versão digital, você encontra a informação de como enviar o *link* para quem deseja. Você pode copiar o *link* ou enviar pelo whatsapp!
 
-**Quer enviar um livro digital personalizado para uma criança?** Então, preencha os dados abaixo. 👇
+**O NOME DA GENTE** é um livro exclusivo e personalizável, que traz a criança como um personagem da história, no qual ela reconhece o seu nome escrito, as letras, os sons, a similaridade com outras palavras. Além disso, propõe a participação da família no processo de alfabetização e no estímulo da criança à leitura.
+
+Gostou? Vamos gerar seu exemplar?! 🎁
+
 <div class="bd-example" style="font-family:'Segoe UI', 'Helvetica Neue', 'Arial'">
-      <form id="formLivro" name="formLivro" target="_blank" class="needs-validation" novalidate action="https://livros.aprender.digital/s/ONomeDaGente.html#book/page/1" method="GET">
+      <form id="formLivro" name="formLivro" target="_blank" class="needs-validation" novalidate action="https://livros.aprender.digital/DNLI5/ONomeDaGente.html#book/page/1" method="GET">
         <div class="form-group">
           <label for="de"><b>Seu nome</b></label>
           <input type="de" class="form-control form-control-lg" placeholder="Digite aqui o seu nome" maxlength="25" required
