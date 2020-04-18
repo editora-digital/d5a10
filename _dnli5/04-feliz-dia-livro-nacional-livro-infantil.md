@@ -6,7 +6,7 @@ description: "Para comemorar, preparamos um presente especial
 permalink: /DNLI5/feliz-dia-nacional-livro-infantil
 author: Parau
 categories: [DNLI5]
-image: assets/images/posts2020/dnli5/importancia-narrativa-oral.jpg
+image: assets/images/posts2020/dnli5/feliz-dia-nacional-livro-infantil.jpg
 tags: [Literatura]
 ---
 
