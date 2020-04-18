@@ -73,7 +73,7 @@ Ao final da versão digital, você encontra a informação de como enviar o *lin
 
 Qualquer dúvida ou comentário deixe a sua [mensagem aqui](https://www.facebook.com/d5a10/posts/154273796121337){:target="_blank"}!!!
 
-Gostou? Vamos gerar seu exemplar?! 🎁
+Gostou? Vamos gerar seu exemplar do livro?! 🎁
 
 <div class="bd-example" style="font-family:'Segoe UI', 'Helvetica Neue', 'Arial'">
       <form id="formLivro" name="formLivro" target="_blank" class="needs-validation" novalidate action="https://livros.aprender.digital/DNLI5/ONomeDaGente.html#book/page/1" method="GET">
