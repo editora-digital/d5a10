@@ -71,6 +71,8 @@ Ao final da versão digital, você encontra a informação de como enviar o *lin
 
 **O NOME DA GENTE** é um livro exclusivo e personalizável, que traz a criança como um personagem da história, no qual ela reconhece o seu nome escrito, as letras, os sons, a similaridade com outras palavras. Além disso, propõe a participação da família no processo de alfabetização e no estímulo da criança à leitura.
 
+Qualquer dúvida ou comentário deixe a sua [mensagem aqui](https://www.facebook.com/d5a10/posts/154273796121337){:target="_blank"}!!!
+
 Gostou? Vamos gerar seu exemplar?! 🎁
 
 <div class="bd-example" style="font-family:'Segoe UI', 'Helvetica Neue', 'Arial'">
