@@ -63,11 +63,11 @@ text-align: center;
   margin-bottom: 0;
 }
 </style>
-Neste dia 18 de abril é **Dia Nacional do Livro Infantil** e aniversário do escritor Monteiro Lobato. E nós só poderíamos comemorar essa data de um jeito muito especial: incentivando a leitura! Por isso, junto com a equipe APRENDER.digital, preparamos uma versão online do livro **O NOME DA GENTE**, com acesso livre, para você personalizar e enviar de presente para aquela criança que você quer bem! (Ah, pode ser adulto também!!! 😉).
+Neste dia 18 de abril é **Dia Nacional do Livro Infantil** e aniversário do escritor Monteiro Lobato. E nós só poderíamos comemorar essa data de um jeito muito especial: incentivando a leitura! Por isso, junto com a equipe APRENDER.digital, preparamos uma versão *online* do livro **O NOME DA GENTE**, com acesso livre, para você personalizar e enviar de presente para aquela criança que você quer bem! (Ah, pode ser adulto também!!! 😉).
 
 Para enviar o livro digital de presente é muito simples. Basta preencher o formulário nesta página 👇 e clicar para gerar o livro.
 
-Ao final da versão digital, você encontra a informação de como enviar o *link* para quem deseja. Você pode copiar o *link* ou enviar pelo whatsapp!
+Ao final da versão digital, você encontra a informação de como enviar o *link* para quem deseja. Você pode copiar o *link* ou enviar pelo WhatsApp!
 
 **O NOME DA GENTE** é um livro exclusivo e personalizável, que traz a criança como um personagem da história, no qual ela reconhece o seu nome escrito, as letras, os sons, a similaridade com outras palavras. Além disso, propõe a participação da família no processo de alfabetização e no estímulo da criança à leitura.
 
