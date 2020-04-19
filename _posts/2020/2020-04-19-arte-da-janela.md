@@ -139,12 +139,12 @@ Resolvi me aventurar e, inspirado nos trabalhos criados acima, chamei minha filh
 
 <figure>
 <img src="/assets/images/posts2020/2020-04-19-arte-da-janela-minha-colagem-digital.jpg">
-<figcaption>Colagem digital &#8212; <small>Parau e Julia Branco</small>.</figcaption>
+<figcaption>Colagem digital &#8212; <small>fonte acervo Parau e Julia Branco</small>.</figcaption>
 </figure>
 
 Bem... Não tão bonito quanto o trabalho do *Daniel Kondo* ou dos artistas de rua, mas foram bons momentos com minha filha neste domingo de quarentena. 🙂
 
-E você? Alguma inspiração para fazer a sua #artedajanela? Poste no Facebook ou Instagram usando a a *hastag* #artedajanela e exercite com a família a sua criatividade digital.
+E você? Alguma inspiração para fazer a sua **#artedajanela**? Poste no Facebook ou Instagram usando a a *hastag* #artedajanela e exercite com a família a sua criatividade digital.
 
 <style>
 div.note
@@ -163,7 +163,7 @@ b.noteTitulo {
 }
 </style>
 <div class="note">
-Se quiser dicas de como fazer a sua #artedajanela clique aqui e deixe seu comentário em nossa página no Facebook.
+Se quiser dicas de como fazer a sua **#artedajanela** clique aqui e deixe seu comentário em nossa página no Facebook.
 </div>
 <br>
 <script src="/assets/js/flickity.pkgd.min.js"></script>
