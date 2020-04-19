@@ -163,7 +163,7 @@ b.noteTitulo {
 }
 </style>
 <div class="note">
-Se quiser dicas de como fazer a sua <b>#artedajanela</b> [clique aqui e deixe seu comentário em nossa página no Facebook](https://www.facebook.com/d5a10/posts/154958832719500).
+Se quiser dicas de como fazer a sua <b>#artedajanela</b> <a href="https://www.facebook.com/d5a10/posts/154958832719500">clique aqui e deixe seu comentário em nossa página no Facebook</a>.
 </div>
 <br>
 <script src="/assets/js/flickity.pkgd.min.js"></script>
