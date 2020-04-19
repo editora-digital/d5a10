@@ -135,7 +135,7 @@ Isso me fez lembrar de algumas imagens de artistas de rua que vi no [Pinterest](
   </div>
 </div>
 
-Resolvi me aventurar e, inspirado nos trabalhos criados acima, chamei minha filha para uma #artedajanela. Tirei uma foto da janela do meu escritório para fazer uma "*colagem*" digital. Veja como ficou:
+Resolvi me aventurar e, inspirado nos trabalhos criados acima, chamei minha filha para uma **#artedajanela**. Tirei uma foto da janela do meu escritório para fazer uma "*colagem*" digital. Veja como ficou:
 
 <figure>
 <img src="/assets/images/posts2020/2020-04-19-arte-da-janela-minha-colagem-digital.jpg">
