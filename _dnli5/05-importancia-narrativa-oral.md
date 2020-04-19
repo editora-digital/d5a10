@@ -1,7 +1,8 @@
 ---
 layout: post
-title: "A importância da narrativa oral para as crianças"
+title: "Contar histórias: a importância da narrativa oral para as crianças."
 description: "Ouvir histórias nutre o intelecto, estimula a imaginação, promove e fortalece vínculos afetivos."
+permalink: /DNLI5/importancia-narrativa-oral
 author: Naira
 categories: [ DNLI5 ]
 image: assets/images/posts2020/dnli5/importancia-narrativa-oral.jpg
@@ -55,5 +56,4 @@ Para ela, mais do que um entretenimento, o seu trabalho contribui para o desenvo
 
 A verdade é que a contação de histórias é uma tradição que vale a pena ser mantida e apresentada às crianças, porque ela faz bem tanto para quem é ouvinte quanto para quem é o contador. **E você, já contou uma história para seus filhos hoje**?
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSd8Pl2KwVj0f3hrZaZyGgm0oOE5qWk_fqQIJ_FGwcJu4gfOng/viewform?embedded=true" width="100%" height="547" frameborder="0" marginheight="0" marginwidth="0">Carregando…</iframe>
 <small><i>Este texto foi produzido em parceria com o 5ª edição projeto [Dia Nacional do Livro Infantil](https://dnli.aprender.digital){:target="_blank"} **#DNLI5**</i></small>

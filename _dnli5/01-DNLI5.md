@@ -31,7 +31,7 @@ Durante este mês, publicaremos conteúdos exclusivos que fazem parte da 5ª edi
  * 15/04: [Entrevista com o escritor infantil ILAN BRENMAN.](/DNLI5/ilan-brenman)
  * 17/04: [O gosto pela leitura: quando os pais são inspiração!](/DNLI5/gosto-pela-leitura)
  * 18/04: [Feliz Dia Nacional do Livro Infantil!](/DNLI5/feliz-dia-nacional-livro-infantil)
- * 20/04: Contar histórias: a importância da narrativa oral para as crianças.
+ * 20/04: [Contar histórias: a importância da narrativa oral para as crianças.](/DNLI5/importancia-narrativa-oral)
  * 22/04: Audio Livros infantis - indicações de acessos gratuitos.
  * 24/04: Seleção de livros digitais infantis gratuitos.
  * 27/04: Como montar uma biblioteca comunitária. 
