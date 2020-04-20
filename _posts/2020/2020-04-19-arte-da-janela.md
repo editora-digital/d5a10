@@ -144,7 +144,7 @@ Resolvi me aventurar e, inspirado nos trabalhos criados acima, chamei minha filh
 
 Bem... Não tão bonito quanto o trabalho do *Daniel Kondo* ou dos artistas de rua, mas foram bons momentos com minha filha neste domingo de quarentena. 🙂
 
-E você? Alguma inspiração para fazer a sua **#artedajanela**? Poste no *Facebook* ou *Instagram* usando a a *hastag* **#artedajanela** e exercite com a família a sua criatividade digital.
+E você? Alguma inspiração para fazer a sua **#artedajanela**? Poste no *Facebook* ou *Instagram* usando a *hastag* **#artedajanela** e exercite com a família a sua criatividade digital.
 
 <style>
 div.note
