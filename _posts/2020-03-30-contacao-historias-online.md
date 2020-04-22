@@ -153,8 +153,41 @@ Histórias já publicadas:
       <a href="https://www.facebook.com/watch/?v=2939898746092340" target="_blank">14/04/2020  &#8212; Bebê e o controle remoto<br></a>
     </td>
   </tr>
-
+  <tr>
+    <td style="vertical-align: top">
+      <img class="bruxa" align="top" src="/assets/images/posts2020/bruxas/beth.png">
+    </td>
+    <td class="bruxa-desc">
+      <b>Bruxa Beth</b><br>
+      <a href="https://www.facebook.com/smecuritiba/posts/124184635896965" target="_blank">15/04/2020 &#8212; A bruxa da trança torcida</a><br>
+    </td>
+  </tr>
+  <tr>
+    <td style="vertical-align: top">
+      <img class="bruxa" align="top" src="/assets/images/posts2020/bruxas/uxa.jpg">
+    </td>
+    <td class="bruxa-desc">
+      <b>Bruxa Uxa</b><br>
+      <a href="https://youtu.be/0f7Ty0zYejI" target="_blank">16/04/2020 &#8212; Era uma vez uma fruta amarela</a><br>
+    </td>
+  </tr>
+  <tr>
+    <td style="vertical-align: top">
+      <img class="bruxa" align="top" src="/assets/images/posts2020/bruxas/guida.png">
+    </td>
+    <td class="bruxa-desc">
+      <b>Bruxa Guida</b><br>
+      <a href="https://youtu.be/iiYZcsA5WPY" target="_blank">17/04/2020 &#8212; Sopa de botão de ossos</a><br>
+    </td>
+  </tr>
+  <tr>
+    <td style="vertical-align: top">
+      <img class="bruxa" align="top" src="/assets/images/posts2020/bruxas/morgana.png">
+    </td>
+    <td class="bruxa-desc">
+      <b>Bruxa Morgana</b><br>
+      <a href="https://www.facebook.com/smecuritiba/posts/126706255644803" target="_blank">20/04/2020 &#8212; O monstro que adorava ler</a><br>
+    </td>
+  </tr>
 </table>
 
-
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSd8Pl2KwVj0f3hrZaZyGgm0oOE5qWk_fqQIJ_FGwcJu4gfOng/viewform?embedded=true" width="100%" height="547" frameborder="0" marginheight="0" marginwidth="0">Carregando…</iframe>
