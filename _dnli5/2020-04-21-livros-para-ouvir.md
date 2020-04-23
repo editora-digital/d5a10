@@ -66,6 +66,6 @@ Para acessar a vasta e cuidadosa seleção feita pela Claudia Houdelier, basta c
 Outra alternativa é o **Era uma vez um podcast…** que foi criado para estimular a imaginação das crianças, passar boas mensagens, tirá-las um pouco das telas (como tvs, celulares e tablets) e também para ajudar crianças que moram fora do Brasil a manter a língua portuguesa em dia.
 Lá você encontra histórias infantis de todos os tipos: clássicos, contos de fadas e fábulas de todos os lugares do mundo e também histórias originais. Para acessar o acervo clique em [**Era uma vez um podcast…**](https://eraumavezumpodcast.com.br/){:target="_blank"} 
 
-Agora que você já sabe um pouco mais sobre os audiolivros e como acessá-los, que tal experimentar? [**Depois clica aqui e conta para nós como foi a sua experiência**](https://www.facebook.com/d5a10){:target="_blank"}. 😊
+Agora que você já sabe um pouco mais sobre os audiolivros e como acessá-los, que tal experimentar? [**Depois clica aqui e conta para nós como foi a sua experiência**](https://www.facebook.com/d5a10/posts/156202439261806){:target="_blank"}. 😊
 
 <small><i>Este texto foi produzido em parceria com o 5ª edição projeto [Dia Nacional do Livro Infantil](https://dnli.aprender.digital){:target="_blank"} **#DNLI5**</i></small>
