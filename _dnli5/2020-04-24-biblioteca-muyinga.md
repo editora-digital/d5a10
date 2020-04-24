@@ -130,3 +130,5 @@ Conheça a **Muyinga Library** (<small>fonte archdaily.com.br</small>):
 </div>
 
 <script src="/assets/js/flickity.pkgd.min.js"></script>
+
+<small><i>Este texto foi produzido em parceria com o projeto [Dia Nacional do Livro Infantil](https://dnli.aprender.digital){:target="_blank"} **#DNLI5**</i></small>
