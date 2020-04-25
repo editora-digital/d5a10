@@ -42,6 +42,6 @@ Agora, aproveite e desligue as notificações do seu celular para curtir essa le
 <a href="https://www.euleioparaumacrianca.com.br/livros/a-bicicleta-voadora" target="_blank"><img class="thumb" src="/assets/images/posts2020/dnli5/bicicleta-voadora.jpg" align="rigth"></a>
 <a href="https://www.euleioparaumacrianca.com.br/livros/a-cancao-dos-passaros" target="_blank"><img class="thumb" src="/assets/images/posts2020/dnli5/cancao-dos-passaros.jpg" align="rigth"></a>
 
-E você? Gostou dos livros? [Deixe o seu comentári aqui!](https://www.facebook.com/d5a10){:target="_blank"}
+E você? Gostou dos livros? [Deixe o seu comentári aqui!](https://www.facebook.com/d5a10/posts/157065742508809){:target="_blank"}
 
 <small><i>Este texto foi produzido em parceria com o projeto [Dia Nacional do Livro Infantil](https://dnli.aprender.digital){:target="_blank"} **#DNLI5**</i></small>
