@@ -43,8 +43,8 @@ text-align: center;
   font-size: 19px;
   width: 70%;
   height: 430px;
-  margin-right: 30px;
-  margin-left: 30px;
+  margin-right: 15px;
+  margin-left: 15px;
   /* flex-box, center image in cell */
   display: -webkit-box;
   display: -webkit-flex;
@@ -60,9 +60,40 @@ text-align: center;
   max-width: 100%;
   max-height: 100%;
 }
-@media screen and ( min-width: 768px ) {
+@media screen and ( min-width: 701px ) {
   .carousel-cell {
-    height: 400px;
+    height: 500px;
+  }
+}
+@media screen and (max-width: 640px) and (min-width: 451px) {
+  .carousel-cell {
+    height: 300px;
+  }
+}
+@media screen and ( max-width: 450px ) {
+  .carousel-cell {
+    height: 250px;
+  }
+}
+@media screen and ( max-width: 700px ) {
+  .carousel-cell {
+    margin-right: 5px;
+    margin-left: 0px;
+    width: 100%;
+  }
+  .flickity-prev-next-button {
+    width: 10px;
+    height: 10px;
+    background: transparent;
+    opacity: 0.6;
+  }
+  .flickity-prev-next-button:hover {
+    background: transparent;
+    opacity: 0.6;
+  }
+  .flickity-prev-next-button .arrow {
+    fill: gray;
+    opacity: 0.6;
   }
 }
 /* buttons, no circle */
