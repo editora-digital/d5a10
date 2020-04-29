@@ -23,6 +23,8 @@ permalink: /:title/
 collections:
   dnli5:
     output: true
+  pesquisa:
+    output: true
 
 # Plugins
 plugins: 
