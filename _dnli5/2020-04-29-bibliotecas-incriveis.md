@@ -196,7 +196,7 @@ Trazemos a imagem de algumas destas bibliotecas &#8212; que mais parecem saídas
   </div>
 </div>
 <br>
-Se quiser conhecer mais sobre a **Muyinga Library** não deixe de conferir [este texto aqui](/DNLI5/biblioteca-muyinga). 
+Se quiser conhecer mais sobre a *Muyinga Library* não deixe de conferir [este texto aqui](/DNLI5/biblioteca-muyinga). 
 <script src="/assets/js/flickity.pkgd.min.js"></script>
 
 <small><i>Este texto foi produzido em parceria com o projeto [Dia Nacional do Livro Infantil](https://dnli.aprender.digital){:target="_blank"} **#DNLI5**</i></small>
