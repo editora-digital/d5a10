@@ -5,7 +5,7 @@ description: "Ah, relaxa, todo mundo solta pum! Até as princesas…"
 permalink: /v/2020/ate-princesas-soltam-pum
 author: Naira
 categories: [ SUGESTÃO ]
-image: assets/images/posts2020/v/ate-princesas-soltam-pum.jpg
+image: assets/images/v/2020/ate-princesas-soltam-pum.jpg
 tags: [Literatura, Sugestão]
 ---
 <style>
@@ -40,7 +40,7 @@ Mas o autor de livros infantis Ilan Brenman tem uma visão bem diferente destas 
 
 Além disso, <b>[Até as princesas soltam pum](https://www.amazon.com.br/At%C3%A9-as-Princesas-Soltam-Pum/dp/8574122394/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=At%C3%A9+as+Princesas+Soltam+Pum&qid=1586374450&s=books&sr=1-1&_encoding=UTF8&tag=greendot06-20&linkCode=ur2&linkId=5780b589f2ca40f86f7276edd5fe4789&camp=1789&creative=9325){:target="_blank"}</b> é um dos títulos  mais indicados por blogs e páginas especializadas em literatura infantil e está sempre presente na lista de contadores de histórias como a *Carol Levy* e a *Fafá*.
 <figure>
-<img src="/assets/images/posts2020/v/ate-princesas-soltam-pum-fafa.jpg" alt="Fafá conta - Até as princesas soltam pum">
+<img src="/assets/images/v/2020/ate-princesas-soltam-pum-fafa.jpg" alt="Fafá conta - Até as princesas soltam pum">
 <figcaption>Fafá conta &#8212; <small>fonte Youtube</small>.</figcaption>
 </figure>
 
