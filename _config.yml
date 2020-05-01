@@ -25,6 +25,8 @@ collections:
     output: true
   pesquisa:
     output: true
+  v:
+    output: true
 
 # Plugins
 plugins: 
