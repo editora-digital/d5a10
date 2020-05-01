@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Você solta pum? "
+title:  "Você solta pum?"
 description: "Ah, relaxa, todo mundo solta pum! Até as princesas…"
 permalink: /v/2020/ate-princesas-soltam-pum
 author: Naira
