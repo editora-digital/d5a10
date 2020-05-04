@@ -11,99 +11,6 @@ description: "d5a10 é seu novo canal de informação sobre uma fase interessant
     
 {% if page.url == "/" %}
   
-<!-- especial DNLI5 -->
-{% for post in site.dnli5 %} 
-{% if post.tags contains "sticky" %}
-  <div class="jumbotron jumbotron-fluid jumbotron-home pt-0 pb-0 mt-3 mb-2rem bg-lightblue position-relative">
-      <div class="pl-4 pr-0 h-100 tofront">
-          <div class="row justify-content-between">
-              <div class="col-md-6 pt-6 pb-6 pr-lg-4 align-self-center">
-                  <h1 class="mb-3">{{post.title}}</h1>
-                  <p class="mb-3 lead">
-                      {{ post.description | strip_html | strip_newlines | truncate: 250 }} <!--post.excerpt-->
-                  </p>
-                  <p class="excerpt">
-                      {{post.text}}
-                  </p>
-                  <a href="{{site.baseurl}}{{post.url}}" class="btn btn-dark">Ler mais</a>
-              </div>
-              <div class="col-md-6 d-none d-md-block pr-0" style="background-size:cover; background-position: center; background-image:url({{site.baseurl}}/{{ post.image-sticky }});">	
-              </div>
-              
-          </div>
-      </div>
-  </div> 
-{% endif %}
-{% endfor %}
-
-<!-- LISTA DE POSTS MENORES DNLI -->
-<div class="row "> <!--remove-site-content-margin-->
-    {% assign esq = "9,7,5,3,1" | split: ',' %}
-    {% assign dir = "8,6,4,2" | split: ',' %}
-
-    <!-- COLUNA ESQUERDA -->
-    <div class="col-md-6">
-      {% for post_esq in esq %}
-        {% assign i = post_esq | times: 1 %}
-        {% assign second_post = site.dnli5[i] %}        
-        <div class="mb-3 d-flex align-items-top">                
-              {% if second_post.image %}
-              <div class="col-md-4">
-              <a href="{{site.baseurl}}{{second_post.url}}">
-               <img style="vertical-align: top" class="w-100" src="{% if second_post.image contains "://" %}{{ second_post.image }}{% else %}{{ second_post.image | absolute_url }}{% endif %}" alt="{{ second_post.title }}">
-              </a>
-              </div>
-              {% endif %}
-              <div>
-                  <h2 class="mb-2 h6 font-weight-bold">
-                  <a class="text-dark" href="{{site.baseurl}}{{second_post.url}}">{{ second_post.title }}</a>
-                  </h2>
-                  <a class="text-dark" href="{{site.baseurl}}{{second_post.url}}">
-                  <small class="d-block text-muted">
-                      <span class="catlist">
-                      {{ second_post.description }}
-                      </span>                   
-                  </small>
-                  </a>                         
-                  <small class="text-muted">
-                      {% include translated_date.html date=second_post.date format=site.date_format lang=site.lang%}
-                  </small>
-              </div>
-        </div>
-      {% endfor %}
-    </div>
-    <!-- COLUNA DIREITA -->
-    <div class="col-md-6">
-      {% for post_dir in dir %}
-        {% assign i = post_dir | times: 1 %}
-        {% assign second_post = site.dnli5[i] %}        
-         <div class="mb-3 d-flex align-items-top">                
-                {% if second_post.image %}
-                <div class="col-md-4">
-                <a href="{{site.baseurl}}{{second_post.url}}">
-                 <img class="w-100" src="{% if second_post.image contains "://" %}{{ second_post.image }}{% else %}{{ second_post.image | absolute_url }}{% endif %}" alt="{{ second_post.title }}">
-                </a>
-                </div>
-                {% endif %}                
-                <div>
-                    <h2 class="mb-2 h6 font-weight-bold">
-                    <a class="text-dark" href="{{site.baseurl}}{{second_post.url}}">{{ second_post.title }}</a>
-                    </h2>
-                    <a class="text-dark" href="{{site.baseurl}}{{second_post.url}}">
-                    <small class="d-block text-muted">
-                        <span class="catlist">
-                            {{ second_post.description }}
-                        </span>                   
-                    </small>
-                    </a>
-                    <small class="text-muted">
-                        {% include translated_date.html date=second_post.date format=site.date_format lang=site.lang%}
-                    </small>
-                </div>
-        </div>
-      {% endfor %}
-    </div>
-</div>
 
 <!-- Sticky -->
 {% for post in site.posts %} 
@@ -266,6 +173,103 @@ description: "d5a10 é seu novo canal de informação sobre uma fase interessant
     {% endfor %}
   </div> 
 </div>  
+
+
+<!-- especial DNLI5 -->
+{% for post in site.dnli5 %} 
+{% if post.tags contains "sticky" %}
+  <div class="jumbotron jumbotron-fluid jumbotron-home pt-0 pb-0 mt-3 mb-2rem bg-lightblue position-relative">
+      <div class="pl-4 pr-0 h-100 tofront">
+          <div class="row justify-content-between">
+              <div class="col-md-6 pt-6 pb-6 pr-lg-4 align-self-center">
+                  <h1 class="mb-3">{{post.title}}</h1>
+                  <p class="mb-3 lead">
+                      {{ post.description | strip_html | strip_newlines | truncate: 250 }} <!--post.excerpt-->
+                  </p>
+                  <p class="excerpt">
+                      {{post.text}}
+                  </p>
+                  <a href="{{site.baseurl}}{{post.url}}" class="btn btn-dark">Ler mais</a>
+              </div>
+              <div class="col-md-6 d-none d-md-block pr-0" style="background-size:cover; background-position: center; background-image:url({{site.baseurl}}/{{ post.image-sticky }});">	
+              </div>
+              
+          </div>
+      </div>
+  </div> 
+{% endif %}
+{% endfor %}
+
+<!-- LISTA DE POSTS MENORES DNLI -->
+<div class="row "> <!--remove-site-content-margin-->
+    {% assign esq = "9,7,5,3,1" | split: ',' %}
+    {% assign dir = "8,6,4,2" | split: ',' %}
+
+    <!-- COLUNA ESQUERDA -->
+    <div class="col-md-6">
+      {% for post_esq in esq %}
+        {% assign i = post_esq | times: 1 %}
+        {% assign second_post = site.dnli5[i] %}        
+        <div class="mb-3 d-flex align-items-top">                
+              {% if second_post.image %}
+              <div class="col-md-4">
+              <a href="{{site.baseurl}}{{second_post.url}}">
+               <img style="vertical-align: top" class="w-100" src="{% if second_post.image contains "://" %}{{ second_post.image }}{% else %}{{ second_post.image | absolute_url }}{% endif %}" alt="{{ second_post.title }}">
+              </a>
+              </div>
+              {% endif %}
+              <div>
+                  <h2 class="mb-2 h6 font-weight-bold">
+                  <a class="text-dark" href="{{site.baseurl}}{{second_post.url}}">{{ second_post.title }}</a>
+                  </h2>
+                  <a class="text-dark" href="{{site.baseurl}}{{second_post.url}}">
+                  <small class="d-block text-muted">
+                      <span class="catlist">
+                      {{ second_post.description }}
+                      </span>                   
+                  </small>
+                  </a>                         
+                  <small class="text-muted">
+                      {% include translated_date.html date=second_post.date format=site.date_format lang=site.lang%}
+                  </small>
+              </div>
+        </div>
+      {% endfor %}
+    </div>
+    <!-- COLUNA DIREITA -->
+    <div class="col-md-6">
+      {% for post_dir in dir %}
+        {% assign i = post_dir | times: 1 %}
+        {% assign second_post = site.dnli5[i] %}        
+         <div class="mb-3 d-flex align-items-top">                
+                {% if second_post.image %}
+                <div class="col-md-4">
+                <a href="{{site.baseurl}}{{second_post.url}}">
+                 <img class="w-100" src="{% if second_post.image contains "://" %}{{ second_post.image }}{% else %}{{ second_post.image | absolute_url }}{% endif %}" alt="{{ second_post.title }}">
+                </a>
+                </div>
+                {% endif %}                
+                <div>
+                    <h2 class="mb-2 h6 font-weight-bold">
+                    <a class="text-dark" href="{{site.baseurl}}{{second_post.url}}">{{ second_post.title }}</a>
+                    </h2>
+                    <a class="text-dark" href="{{site.baseurl}}{{second_post.url}}">
+                    <small class="d-block text-muted">
+                        <span class="catlist">
+                            {{ second_post.description }}
+                        </span>                   
+                    </small>
+                    </a>
+                    <small class="text-muted">
+                        {% include translated_date.html date=second_post.date format=site.date_format lang=site.lang%}
+                    </small>
+                </div>
+        </div>
+      {% endfor %}
+    </div>
+</div>
+
+
 
 {% endif %} <!--endif page url is / -->
     
