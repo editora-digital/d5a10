@@ -42,14 +42,14 @@ text-align: center;
 A partir desta segunda-feira, 30, a Prefeitura Municipal de Curitiba promove as famosas contações de histórias da Casa da Bruxa pela internet!  O espaço Casa da Bruxa é uma biblioteca pública que fica dentro do Bosque Alemão, um dos muitos parques da cidade. Nela, periodicamente, acontecem sessões de contação de histórias com simpáticas bruxinhas que fazem muito sucesso com a criançada. 
 
 <a href="https://aprender.digital/"><img class="thumb" src="/assets/images/o-nome-da-gente.gif" align="rigth"></a>
-Como neste período, a Casa da Bruxa está fechada, elas estarão *online* com suas  muitas histórias para encantar crianças e estudantes que estão em casa, por causa do coronavírus. As sessões virtuais acontecem de segunda-feira a sexta-feira, sempre às 15h, no [Facebook da Prefeitura de Curitiba](https://pt-br.facebook.com/PrefsCuritiba/){:target="_blank"}! Mas o <spam style="font-family: 'Crafty Girls', cursive;color:gray"><b>d5a10</b></spam> vai colocar diariamente os links aqui para nossos leitores!
+Como neste período, a Casa da Bruxa está fechada, elas estarão *online* com suas  muitas histórias para encantar crianças e estudantes que estão em casa, por causa do coronavírus. As sessões virtuais acontecem de segunda-feira a sexta-feira, sempre às 15h, no [Facebook da Secretaria Municipal da Educação de Curitiba](https://www.facebook.com/smecuritiba){:target="_blank"}! Mas o <spam style="font-family: 'Crafty Girls', cursive;color:gray"><b>d5a10</b></spam> vai colocar diariamente os links aqui para nossos leitores!
 
 Gostou?! Então, assista ao vídeo para ter um gostinho do que é a Casa da Bruxa e acompanhe as histórias *online*, nesta quarentena!!
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/P-gxEGZlQTQ' frameborder='0' allowfullscreen></iframe></div>
 <br>
 Quando tudo isso passar, que tal fazer uma visitinha pessoalmente à Casa da Bruxa, em Curitiba? Elas estarão lá esperando você! 
 
-Histórias já publicadas:
+Histórias já publicadas:<br><small>*Atualizado em 04/05/2020*</small>
 <table>
   <tr>
     <td style="vertical-align: top">
@@ -187,6 +187,69 @@ Histórias já publicadas:
     <td class="bruxa-desc">
       <b>Bruxa Morgana</b><br>
       <a href="https://www.facebook.com/smecuritiba/posts/126706255644803" target="_blank">20/04/2020 &#8212; O monstro que adorava ler</a><br>
+    </td>
+  </tr>
+  <tr>
+    <td style="vertical-align: top">
+      <img class="bruxa" align="top" src="/assets/images/posts2020/bruxas/bellatrix.png">
+    </td>
+    <td class="bruxa-desc">
+      <b>Bruxa Bellatrix</b><br>
+      <a href="https://www.facebook.com/smecuritiba/posts/127589482223147" target="_blank">22/04/2020  &#8212; Cuidado com o menino!<br></a>
+    </td>
+  </tr>
+  <tr>
+    <td style="vertical-align: top">
+      <img class="bruxa" align="top" src="/assets/images/posts2020/bruxas/memeia.png">
+    </td>
+    <td class="bruxa-desc">
+      <b>Bruxa Meméia</b><br>
+      <a href="https://www.facebook.com/smecuritiba/posts/127943132187782" target="_blank">23/04/2020  &#8212; Sibila<br></a>
+    </td>
+  </tr>
+  <tr>
+    <td style="vertical-align: top">
+      <img class="bruxa" align="top" src="/assets/images/posts2020/bruxas/felicia.png">
+    </td>
+    <td class="bruxa-desc">
+      <b>Bruxa Felícia</b><br>
+      <a href="https://www.facebook.com/smecuritiba/posts/128577942124301" target="_blank">24/04/2020  &#8212; Conto popular - Marie e Toby<br></a>
+    </td>
+  </tr>
+  <tr>
+    <td style="vertical-align: top">
+      <img class="bruxa" align="top" src="/assets/images/posts2020/bruxas/beth.png">
+    </td>
+    <td class="bruxa-desc">
+      <b>Bruxa Beth</b><br>
+      <a href="https://youtu.be/QJCsuc8BA3Q" target="_blank">27/04/2020  &#8212; Novas histórias antigas - A Serpente de ouro<br></a>
+    </td>
+  </tr>
+  <tr>
+    <td style="vertical-align: top">
+      <img class="bruxa" align="top" src="/assets/images/posts2020/bruxas/felicia.png">
+    </td>
+    <td class="bruxa-desc">
+      <b>Bruxa Felícia</b><br>
+      <a href="https://www.facebook.com/smecuritiba/posts/130318581950237" target="_blank">28/04/2020  &#8212; A colcha de retalhos<br></a>
+    </td>
+  </tr>
+  <tr>
+    <td style="vertical-align: top">
+      <img class="bruxa" align="top" src="/assets/images/posts2020/bruxas/cidinha.png">
+    </td>
+    <td class="bruxa-desc">
+      <b>Bruxa Cidinha</b><br>
+      <a href="https://www.facebook.com/smecuritiba/videos/367737217501190/" target="_blank">30/04/2020 &#8212; Os músicos de Bremen<br></a>
+    </td>
+  </tr>
+  <tr>
+    <td style="vertical-align: top">
+      <img class="bruxa" align="top" src="/assets/images/posts2020/bruxas/alegria.png">
+    </td>
+    <td class="bruxa-desc">
+      <b>Bruxa Alegria</b><br>
+      <a href="https://www.facebook.com/smecuritiba/posts/132991648349597" target="_blank">04/05/2020  &#8212; A noite chegou e o sono não vem<br></a>
     </td>
   </tr>
 </table>
