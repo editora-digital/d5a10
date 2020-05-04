@@ -28,7 +28,7 @@ O <spam class="d5a10">d5a10</spam> é um site voltado para quem tem filhos entre
 
 E para sermos mais assertivos nas publicações queremos saber quais destes temas, abaixo, é mais interessante para você! Seja editor por um dia, escolha o tema que gostaria de ler no <spam class="d5a10">d5a10</spam> e colabore com a pauta do site!
 
-## Pesquisa encerrada!!! Obrigado pela participação. Confira o resultado no gráfico abaixo.
+## Pesquisa encerrada!!! Agradeço a participação. Confira o resultado no gráfico abaixo.
 <figure>
 <img src="/assets/images/pesquisa/2020-05-04-resultado.jpg" alt="Gráfico resultado da pesquisa">
 </figure>
