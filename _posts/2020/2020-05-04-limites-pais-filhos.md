@@ -28,6 +28,7 @@ top:-10px;
 font-style: italic;
 text-align: center;
 }
+
 </style>
 <a href="https://aprender.digital/"><img class="thumb" src="/assets/images/o-nome-da-gente.gif" align="rigth"></a>
 Temos trazido alguns podcasts da série **Educa 2.1: os desafios de educar crianças e jovens no século XXI**, da Rádio CBN, para nossos leitores ouvirem. E, dessa vez, nossa sugestão é a entrevista com a psicanalista *Vera Iaconelli*, autora do livro [**Criar filhos no século XXI**](https://www.amazon.com.br/gp/product/8552001535/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=greendot06-20&creative=9325&linkCode=as2&creativeASIN=8552001535&linkId=32f742b1e487c328c3a5957b8c1b340d){:target="_blank"}, que foi uma das convidadas da série com o tema **Limites para pais e filhos**. 
