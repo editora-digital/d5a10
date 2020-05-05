@@ -61,4 +61,4 @@ Para ouvir a conversa na íntegra, acesse o *podcast* abaixo.
 <figcaption><a href="https://audioglobo.globo.com/cbn/podcast/feed/735/educa-21-os-desafios-de-educar-criancas-e-jovens-n" target="_blank">CBN PODCAST</a> | #7 - Limite para pais e filhos</figcaption>
 <script src="/assets/js/plyr.min.js"></script>
 
-Confira também o *podecast* [**Solidão Digital**](/solidao/).
+Confira também o *podcast* [**Solidão Digital**](/solidao/).
