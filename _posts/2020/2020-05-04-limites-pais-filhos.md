@@ -8,7 +8,6 @@ categories: [ Comportamento ]
 image: assets/images/posts2020/2020-05-04-limites-pais-filhos.jpg
 tags: [Comportamento]
 ---
-<link rel="stylesheet" href="/assets/css/plyr.css" />
 <style>
 .capa { display: block; margin-left: auto; margin-right: auto; width: 50%; 
 box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);}
