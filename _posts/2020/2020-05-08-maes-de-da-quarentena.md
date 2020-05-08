@@ -44,6 +44,6 @@ Mães jovens, mães de meia-idade, mães de bebês, mães de adolescentes, mães
 
 Então, neste **DIA DAS MÃES DA QUARENTENA** a reflexão que eu deixo aqui para todas é que, dentro do possível, estamos fazendo o nosso melhor, cuidando da casa, do marido, dos pais, dos filhos, do trabalho, de tudo e de todos que precisam de nós. Mas,  acima de tudo, precisamos cuidar da nossa própria saúde mental. Agora não cabem julgamentos, autocobranças, comparações e excessos. Sejamos resilientes, mas também brandas e tolerantes conosco e com  as nossas limitações.
 
-Afinal, estamos em quarentena. E tal qual as mães do puerpério precisamos de cuidados especiais para passarmos por essa fase e renascermos como mães, mais fortes e ainda melhores!
+Afinal, estamos em quarentena. E, tal qual as mães do puerpério, precisamos de cuidados especiais para passarmos por essa fase e renascermos como mães, mais fortes e ainda melhores!
 
 **FELIZ DIA DAS MÃES!!!**
