@@ -6,8 +6,8 @@ text: "Resguardo e quarentena. Essas são duas palavras já conhecidas do vocabu
 permalink: /2020/maes-de-da-quarentena
 author: Naira
 categories: [ COMPORTAMENTO ]
-image: assets/images/posts2020/2020-05-08-maes-de-da-quarentena.jpeg
-image-sticky: assets/images/posts2020/2020-05-08-maes-de-da-quarentena.jpeg
+image: assets/images/posts2020/2020-05-08-maes-de-da-quarentena.jpg
+image-sticky: assets/images/posts2020/2020-05-08-maes-de-da-quarentena-sticky.jpeg
 tags: [Comportamento, sticky]
 ---
 <style>
