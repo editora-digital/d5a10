@@ -88,7 +88,7 @@ blockquote {
 }
 </style>
 
->Quanto mais ela questiona, mais chances tem de se tornar uma pessoa com as habilidades fundamentais para a vida no século XXI &#8212; pensamento crítico, criatividade, cooperação e comunicação <small style=" font-style: normal;">(Juliana Spinelli)</small>.
+>Quanto mais ela questiona, mais chances tem de se tornar uma pessoa com as habilidades fundamentais para a vida no século XXI &#8212; pensamento crítico, criatividade, cooperação e comunicação. <small style=" font-style: normal;">&#x00AB;Juliana Spinelli&#x00BB;</small>
 
 Para isso, é importante atribuir um lugar de segurança e estabilidade para que os conflitos resultem em aprendizagens. Deixar espaço para o que é lógico, mesmo que isso não seja o que você tinha em mente, é fundamental. “*Adultos abertos a mudanças despertam menos comportamentos desafiadores em crianças e adolescentes, pois transmitem segurança suficiente para analisar novas informações e se comportar de maneira diferente diante do novo. E é aqui que eles aprendem a viver melhor em sociedade*”, conclui.
 
