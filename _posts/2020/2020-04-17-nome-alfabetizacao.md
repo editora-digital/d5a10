@@ -46,7 +46,7 @@ Imagine que bacana ler para seu filho, ou junto com ele, uma história na qual e
 </figure>
 
 ### Dicas para a leitura
-Se você está lendo esse texto já está em companhia do livro [O Nome da Gente](https://aprender.digital){:target="_blank"}, seguem algumas dicas para aproveitar a leitura de maneira ainda mais significativa:
+Se você está lendo esse texto já em companhia do livro [O Nome da Gente](https://aprender.digital){:target="_blank"}, seguem algumas dicas para aproveitar a leitura de maneira ainda mais significativa:
 
  * Estabeleça uma rotina diária de leitura. Uma boa ideia é aproveitar o momento antes de dormir, pois a leitura ajuda a criança a relaxar e dormir melhor.
  * Escolha um lugar confortável e tranquilo.
